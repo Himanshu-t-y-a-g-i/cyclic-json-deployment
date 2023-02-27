@@ -1,8 +1,8 @@
 {
     "appliance":[
       {
-        "_id": "6398945a9860a2192e7c8532",
-        "id": 1,
+        "id": "6398945a9860a2192e7c8532",
+        "__id": 1,
         "imglink": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTcyODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGU3L2gxNC85NzU1MTY3NDI0NTQyLmpwZ3wzMzRhZGZmYmZjNzU1YWNiMmQwOGQ2NmNmNjRjZDdlYjE1ZDEzNDAzZmEyN2I5NjZlZjVhYWQ3NTU5M2M4Yjk1",
         "name": "Kelvinator 1.8L 1200W Food Grade Electric Kettle with Water Level Indicator, LED Light, Dry Boil Protection, Auto Shut-off, 2 Years Warranty",
         "MRP": 1999,
@@ -20,8 +20,8 @@
         "img3": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3w0MzU1fGltYWdlL2pwZWd8aW1hZ2VzL2gzZS9oMzkvOTc1NTE2ODE0NTQzOC5qcGd8MDI3Zjc2MGM0OWI5N2JjYWI5OGIzMDIxNDNjZjRkYWQwYjk4NWZjZWM4MDM0OGY2Mzc4ZmQ4OGUyZGFkMjc1MA"
       },
       {
-        "_id": "6398945a9860a2192e7c8533",
-        "id": 2,
+        "id": "6398945a9860a2192e7c8533",
+        "__id": 2,
         "imglink": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODMyODh8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g3YS85NjIwMzI4NDE1MjYyLmpwZ3xiYmIwYzMwMzI0YWYyMmM0MjdjYTM5Mzc0ODk5MWY0MmFiYWEwNGU0YWZhNzIzNDUwMDQ0YmFmMTE0ODlmNzhj",
         "name": "BPL Beard Trimmer with Digital Battery Indicator, 70mins Cordless Usage, Fast Charging, 4 Comb Settings, 2 Years Warranty, Black and Light Gold",
         "MRP": 1699,
@@ -39,8 +39,8 @@
         "img3": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyNjQyNnxpbWFnZS9qcGVnfGltYWdlcy9oM2MvaDlmLzk2MjAzMjkxMzYxNTguanBnfDVhY2FiNWRjMjliOGZmNTZhZTQ5NmMxNDljMTFmODgxNTEzYTFjMWRiNGYwZDAxM2VmNmY3OTQ5NTFhNmI2Nzg"
       },
       {
-        "_id": "6398945a9860a2192e7c8534",
-        "id": 3,
+        "id": "6398945a9860a2192e7c8534",
+        "__id": 3,
         "imglink": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI",
         "name": "Panasonic 1.8 litres Rice Cooker, SR-WA18 (GE9)",
         "MRP": 3395,
@@ -58,10 +58,10 @@
         "img3": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI"
       },
       {
-        "_id": "6398945a9860a2192e7c8535",
-        "id": 4,
+        "id": "6398945a9860a2192e7c8535",
+        "__id": 4,
         "imglink": "https://www.reliancedigital.in/medias/Reconnect-DSM302-CA-Sandwich-Maker-491604309-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1NjI4NzJ8aW1hZ2UvanBlZ3xpbWFnZXMvaDcwL2gyNS85NTQ1NDI5Mzg1MjQ2LmpwZ3wyZDQ1NGMxYjAxNTdiN2IwYTc2NDRlYzFkNzA1YzYyMjQ1NWFhY2JjMGZiOWQwNjAwNWM4MTljNDUxNDhhZDRl",
-        "name": "Reconnect Captain America Sandwich Maker with Theme Impression, Non-Stick Plates, Cool Coating for Burn-Free Touch, Heat-up Light Indicator, Lid Lock, Compact Vertical Storage, 2 Years Warranty",
+        "name": "Reconnect Captain America Sandwich Maker with Theme Impression, Non-Stick Plates, Cool Coating for Burn-Free Touch, Heat-up Light Indicator, L__id Lock, Compact Vertical Storage, 2 Years Warranty",
         "MRP": 2199,
         "MRPx": "₹2,199",
         "brand": "Reconnect",
@@ -77,8 +77,8 @@
         "img3": "https://www.reliancedigital.in/medias/Reconnect-DSM302-CA-Sandwich-Maker-491604309-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyNjUxMXxpbWFnZS9qcGVnfGltYWdlcy9oNjMvaGQ2Lzk1NDU0MjU3ODA3NjYuanBnfGE3ZDhlOGE3ZjBmZjdlYjUyYWRhOGY0ZjI3MWQwNDUxNzkxZjdlNjU4ZmEyZjZmMTkxMzdjYzFkNmZmZWIxMDU"
       },
       {
-        "_id": "6398945a9860a2192e7c8536",
-        "id": 5,
+        "id": "6398945a9860a2192e7c8536",
+        "__id": 5,
         "imglink": "https://www.reliancedigital.in/medias/hindware-calisto-Water-Purifier-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNzk5OXxpbWFnZS9qcGVnfGltYWdlcy9oYmYvaDJlLzk3NDQ0NDcxMTExOTguanBnfDg5YzRlZDBlMjNjZDIyMDE2OGJmZjgxZjlkYWQyNWMwNzkxNGI1NTgzMWQ5OGM0NmI2NDRmZmFiOGJhMDliZjI",
         "name": "Hindware Calisto 7 Litres RO+UV+UF Water Purifier with Smart LED Indicators, White (WR-18071UFN)",
         "MRP": 14990,
@@ -96,8 +96,8 @@
         "img3": "https://www.reliancedigital.in/medias/hindware-calisto-Water-Purifier-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wxNTI4fGltYWdlL2pwZWd8aW1hZ2VzL2g1YS9oNDEvOTc0NDQ0NzgzMjA5NC5qcGd8YmYwNzU5OTg0NTUzN2RiZmUxMjYzMzcyNjIwZDk1MGJkOWRhNGRmYjYxZTFlMjIzMTc1ODQxYzczM2IwMzg2NA"
       },
       {
-        "_id": "6398945a9860a2192e7c8537",
-        "id": 6,
+        "id": "6398945a9860a2192e7c8537",
+        "__id": 6,
         "imglink": "https://www.reliancedigital.in/medias/BPL-BBT001MLC-Beard-Trimmer-491903144-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDIyMzl8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g5Yy85NjEzNTc0MzczNDA2LmpwZ3w2YzY0NjMyNGRmYjQ5NTIzNWI3Y2FlODQ4YzFmN2JkNjRkNGM2YmJiZTJlMDA3NDQ5YTJhZTMxODQ3MGMwNWRl",
         "name": "BPL 2-in-1 Beard and Nose Trimmer, 45mins Cordless Usage, 3mm-12mm Adjustable Comb, 2 Years Warranty, Navy Blue",
         "MRP": 1299,
@@ -115,8 +115,8 @@
         "img3": "https://www.reliancedigital.in/medias/BPL-BBT001MLC-Beard-Trimmer-491903144-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyMjg1M3xpbWFnZS9qcGVnfGltYWdlcy9oOGMvaGMzLzk2MTM1NzUwOTQzMDIuanBnfGY4NzljNWIxOTA5MDA0ZWI1MTkyYzM2YjcxYzI2OTYyYzcwM2Q0YWU2NjFkOWVmNzU5YTFlMzAyOWQxMTA3ODg"
       },
       {
-        "_id": "6398945a9860a2192e7c8538",
-        "id": 7,
+        "id": "6398945a9860a2192e7c8538",
+        "__id": 7,
         "imglink": "https://www.reliancedigital.in/medias/Inalsa-Jazz-Pro-Juicer-Mixer-Grinder-491959502-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNjk2MjV8aW1hZ2UvanBlZ3xpbWFnZXMvaDE5L2hmOS85NTUwNjQxNjkyNzAyLmpwZ3w0OWYzYWU2YmM3ZTQ1ZTYyYjNjZWQ3NjdiZWJlMTFkNGQ4YTRhYTFhMmQ5MWRiZjA2NmViNTE4NmRkYTc2MzQy",
         "name": "Inalsa Jazz Pro 550 Watts Mixer Grinder With 3 Speed Setting",
         "MRP": 4495,
@@ -134,8 +134,8 @@
         "img3": "https://www.reliancedigital.in/medias/Inalsa-Jazz-Pro-Juicer-Mixer-Grinder-491959502-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyOTc1OXxpbWFnZS9qcGVnfGltYWdlcy9oMzMvaGM5Lzk1NTA2NDI0MTM1OTguanBnfDE5NGEzOWRhNTZkYTFmOTNmNGYyYjgwZjFjMTBjNmFkMTRmOGMzMjIwNmNmMGFkZjg0MzAwNmRmYzZhNzcxMDM"
       },
       {
-        "_id": "6398945a9860a2192e7c8539",
-        "id": 8,
+        "id": "6398945a9860a2192e7c8539",
+        "__id": 8,
         "imglink": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTcyODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGU3L2gxNC85NzU1MTY3NDI0NTQyLmpwZ3wzMzRhZGZmYmZjNzU1YWNiMmQwOGQ2NmNmNjRjZDdlYjE1ZDEzNDAzZmEyN2I5NjZlZjVhYWQ3NTU5M2M4Yjk1",
         "name": "Kelvinator 1.8L 1200W Food Grade Electric Kettle with Water Level Indicator, LED Light, Dry Boil Protection, Auto Shut-off, 2 Years Warranty",
         "MRP": 1999,
@@ -153,8 +153,8 @@
         "img3": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3w0MzU1fGltYWdlL2pwZWd8aW1hZ2VzL2gzZS9oMzkvOTc1NTE2ODE0NTQzOC5qcGd8MDI3Zjc2MGM0OWI5N2JjYWI5OGIzMDIxNDNjZjRkYWQwYjk4NWZjZWM4MDM0OGY2Mzc4ZmQ4OGUyZGFkMjc1MA"
       },
       {
-        "_id": "6398945a9860a2192e7c853a",
-        "id": 9,
+        "id": "6398945a9860a2192e7c853a",
+        "__id": 9,
         "imglink": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODMyODh8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g3YS85NjIwMzI4NDE1MjYyLmpwZ3xiYmIwYzMwMzI0YWYyMmM0MjdjYTM5Mzc0ODk5MWY0MmFiYWEwNGU0YWZhNzIzNDUwMDQ0YmFmMTE0ODlmNzhj",
         "name": "BPL Beard Trimmer with Digital Battery Indicator, 70mins Cordless Usage, Fast Charging, 4 Comb Settings, 2 Years Warranty, Black and Light Gold",
         "MRP": 1699,
@@ -172,8 +172,8 @@
         "img3": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyNjQyNnxpbWFnZS9qcGVnfGltYWdlcy9oM2MvaDlmLzk2MjAzMjkxMzYxNTguanBnfDVhY2FiNWRjMjliOGZmNTZhZTQ5NmMxNDljMTFmODgxNTEzYTFjMWRiNGYwZDAxM2VmNmY3OTQ5NTFhNmI2Nzg"
       },
       {
-        "_id": "6398945a9860a2192e7c853b",
-        "id": 10,
+        "id": "6398945a9860a2192e7c853b",
+        "__id": 10,
         "imglink": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI",
         "name": "Panasonic 1.8 litres Rice Cooker, SR-WA18 (GE9)",
         "MRP": 3395,
@@ -191,8 +191,8 @@
         "img3": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI"
       },
       {
-        "_id": "6398945a9860a2192e7c853c",
-        "id": 11,
+        "id": "6398945a9860a2192e7c853c",
+        "__id": 11,
         "imglink": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTcyODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGU3L2gxNC85NzU1MTY3NDI0NTQyLmpwZ3wzMzRhZGZmYmZjNzU1YWNiMmQwOGQ2NmNmNjRjZDdlYjE1ZDEzNDAzZmEyN2I5NjZlZjVhYWQ3NTU5M2M4Yjk1",
         "name": "Kelvinator 1.8L 1200W Food Grade Electric Kettle with Water Level Indicator, LED Light, Dry Boil Protection, Auto Shut-off, 2 Years Warranty",
         "MRP": 1999,
@@ -210,8 +210,8 @@
         "img3": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3w0MzU1fGltYWdlL2pwZWd8aW1hZ2VzL2gzZS9oMzkvOTc1NTE2ODE0NTQzOC5qcGd8MDI3Zjc2MGM0OWI5N2JjYWI5OGIzMDIxNDNjZjRkYWQwYjk4NWZjZWM4MDM0OGY2Mzc4ZmQ4OGUyZGFkMjc1MA"
       },
       {
-        "_id": "6398945a9860a2192e7c853d",
-        "id": 12,
+        "id": "6398945a9860a2192e7c853d",
+        "__id": 12,
         "imglink": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODMyODh8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g3YS85NjIwMzI4NDE1MjYyLmpwZ3xiYmIwYzMwMzI0YWYyMmM0MjdjYTM5Mzc0ODk5MWY0MmFiYWEwNGU0YWZhNzIzNDUwMDQ0YmFmMTE0ODlmNzhj",
         "name": "BPL Beard Trimmer with Digital Battery Indicator, 70mins Cordless Usage, Fast Charging, 4 Comb Settings, 2 Years Warranty, Black and Light Gold",
         "MRP": 1699,
@@ -229,8 +229,8 @@
         "img3": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyNjQyNnxpbWFnZS9qcGVnfGltYWdlcy9oM2MvaDlmLzk2MjAzMjkxMzYxNTguanBnfDVhY2FiNWRjMjliOGZmNTZhZTQ5NmMxNDljMTFmODgxNTEzYTFjMWRiNGYwZDAxM2VmNmY3OTQ5NTFhNmI2Nzg"
       },
       {
-        "_id": "6398945a9860a2192e7c853e",
-        "id": 13,
+        "id": "6398945a9860a2192e7c853e",
+        "__id": 13,
         "imglink": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI",
         "name": "Panasonic 1.8 litres Rice Cooker, SR-WA18 (GE9)",
         "MRP": 3395,
@@ -248,10 +248,10 @@
         "img3": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI"
       },
       {
-        "_id": "6398945a9860a2192e7c853f",
-        "id": 14,
+        "id": "6398945a9860a2192e7c853f",
+        "__id": 14,
         "imglink": "https://www.reliancedigital.in/medias/Reconnect-DSM302-CA-Sandwich-Maker-491604309-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1NjI4NzJ8aW1hZ2UvanBlZ3xpbWFnZXMvaDcwL2gyNS85NTQ1NDI5Mzg1MjQ2LmpwZ3wyZDQ1NGMxYjAxNTdiN2IwYTc2NDRlYzFkNzA1YzYyMjQ1NWFhY2JjMGZiOWQwNjAwNWM4MTljNDUxNDhhZDRl",
-        "name": "Reconnect Captain America Sandwich Maker with Theme Impression, Non-Stick Plates, Cool Coating for Burn-Free Touch, Heat-up Light Indicator, Lid Lock, Compact Vertical Storage, 2 Years Warranty",
+        "name": "Reconnect Captain America Sandwich Maker with Theme Impression, Non-Stick Plates, Cool Coating for Burn-Free Touch, Heat-up Light Indicator, L__id Lock, Compact Vertical Storage, 2 Years Warranty",
         "MRP": 2199,
         "MRPx": "₹2,199",
         "brand": "Reconnect",
@@ -267,8 +267,8 @@
         "img3": "https://www.reliancedigital.in/medias/Reconnect-DSM302-CA-Sandwich-Maker-491604309-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyNjUxMXxpbWFnZS9qcGVnfGltYWdlcy9oNjMvaGQ2Lzk1NDU0MjU3ODA3NjYuanBnfGE3ZDhlOGE3ZjBmZjdlYjUyYWRhOGY0ZjI3MWQwNDUxNzkxZjdlNjU4ZmEyZjZmMTkxMzdjYzFkNmZmZWIxMDU"
       },
       {
-        "_id": "6398945a9860a2192e7c8540",
-        "id": 15,
+        "id": "6398945a9860a2192e7c8540",
+        "__id": 15,
         "imglink": "https://www.reliancedigital.in/medias/hindware-calisto-Water-Purifier-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNzk5OXxpbWFnZS9qcGVnfGltYWdlcy9oYmYvaDJlLzk3NDQ0NDcxMTExOTguanBnfDg5YzRlZDBlMjNjZDIyMDE2OGJmZjgxZjlkYWQyNWMwNzkxNGI1NTgzMWQ5OGM0NmI2NDRmZmFiOGJhMDliZjI",
         "name": "Hindware Calisto 7 Litres RO+UV+UF Water Purifier with Smart LED Indicators, White (WR-18071UFN)",
         "MRP": 14990,
@@ -286,8 +286,8 @@
         "img3": "https://www.reliancedigital.in/medias/hindware-calisto-Water-Purifier-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wxNTI4fGltYWdlL2pwZWd8aW1hZ2VzL2g1YS9oNDEvOTc0NDQ0NzgzMjA5NC5qcGd8YmYwNzU5OTg0NTUzN2RiZmUxMjYzMzcyNjIwZDk1MGJkOWRhNGRmYjYxZTFlMjIzMTc1ODQxYzczM2IwMzg2NA"
       },
       {
-        "_id": "6398945a9860a2192e7c8541",
-        "id": 16,
+        "id": "6398945a9860a2192e7c8541",
+        "__id": 16,
         "imglink": "https://www.reliancedigital.in/medias/BPL-BBT001MLC-Beard-Trimmer-491903144-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDIyMzl8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g5Yy85NjEzNTc0MzczNDA2LmpwZ3w2YzY0NjMyNGRmYjQ5NTIzNWI3Y2FlODQ4YzFmN2JkNjRkNGM2YmJiZTJlMDA3NDQ5YTJhZTMxODQ3MGMwNWRl",
         "name": "BPL 2-in-1 Beard and Nose Trimmer, 45mins Cordless Usage, 3mm-12mm Adjustable Comb, 2 Years Warranty, Navy Blue",
         "MRP": 1299,
@@ -305,8 +305,8 @@
         "img3": "https://www.reliancedigital.in/medias/BPL-BBT001MLC-Beard-Trimmer-491903144-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyMjg1M3xpbWFnZS9qcGVnfGltYWdlcy9oOGMvaGMzLzk2MTM1NzUwOTQzMDIuanBnfGY4NzljNWIxOTA5MDA0ZWI1MTkyYzM2YjcxYzI2OTYyYzcwM2Q0YWU2NjFkOWVmNzU5YTFlMzAyOWQxMTA3ODg"
       },
       {
-        "_id": "6398945a9860a2192e7c8542",
-        "id": 17,
+        "id": "6398945a9860a2192e7c8542",
+        "__id": 17,
         "imglink": "https://www.reliancedigital.in/medias/Inalsa-Jazz-Pro-Juicer-Mixer-Grinder-491959502-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNjk2MjV8aW1hZ2UvanBlZ3xpbWFnZXMvaDE5L2hmOS85NTUwNjQxNjkyNzAyLmpwZ3w0OWYzYWU2YmM3ZTQ1ZTYyYjNjZWQ3NjdiZWJlMTFkNGQ4YTRhYTFhMmQ5MWRiZjA2NmViNTE4NmRkYTc2MzQy",
         "name": "Inalsa Jazz Pro 550 Watts Mixer Grinder With 3 Speed Setting",
         "MRP": 4495,
@@ -324,8 +324,8 @@
         "img3": "https://www.reliancedigital.in/medias/Inalsa-Jazz-Pro-Juicer-Mixer-Grinder-491959502-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyOTc1OXxpbWFnZS9qcGVnfGltYWdlcy9oMzMvaGM5Lzk1NTA2NDI0MTM1OTguanBnfDE5NGEzOWRhNTZkYTFmOTNmNGYyYjgwZjFjMTBjNmFkMTRmOGMzMjIwNmNmMGFkZjg0MzAwNmRmYzZhNzcxMDM"
       },
       {
-        "_id": "6398945a9860a2192e7c8543",
-        "id": 18,
+        "id": "6398945a9860a2192e7c8543",
+        "__id": 18,
         "imglink": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTcyODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGU3L2gxNC85NzU1MTY3NDI0NTQyLmpwZ3wzMzRhZGZmYmZjNzU1YWNiMmQwOGQ2NmNmNjRjZDdlYjE1ZDEzNDAzZmEyN2I5NjZlZjVhYWQ3NTU5M2M4Yjk1",
         "name": "Kelvinator 1.8L 1200W Food Grade Electric Kettle with Water Level Indicator, LED Light, Dry Boil Protection, Auto Shut-off, 2 Years Warranty",
         "MRP": 1999,
@@ -343,8 +343,8 @@
         "img3": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3w0MzU1fGltYWdlL2pwZWd8aW1hZ2VzL2gzZS9oMzkvOTc1NTE2ODE0NTQzOC5qcGd8MDI3Zjc2MGM0OWI5N2JjYWI5OGIzMDIxNDNjZjRkYWQwYjk4NWZjZWM4MDM0OGY2Mzc4ZmQ4OGUyZGFkMjc1MA"
       },
       {
-        "_id": "6398945a9860a2192e7c8544",
-        "id": 19,
+        "id": "6398945a9860a2192e7c8544",
+        "__id": 19,
         "imglink": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODMyODh8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g3YS85NjIwMzI4NDE1MjYyLmpwZ3xiYmIwYzMwMzI0YWYyMmM0MjdjYTM5Mzc0ODk5MWY0MmFiYWEwNGU0YWZhNzIzNDUwMDQ0YmFmMTE0ODlmNzhj",
         "name": "BPL Beard Trimmer with Digital Battery Indicator, 70mins Cordless Usage, Fast Charging, 4 Comb Settings, 2 Years Warranty, Black and Light Gold",
         "MRP": 1699,
@@ -362,8 +362,8 @@
         "img3": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyNjQyNnxpbWFnZS9qcGVnfGltYWdlcy9oM2MvaDlmLzk2MjAzMjkxMzYxNTguanBnfDVhY2FiNWRjMjliOGZmNTZhZTQ5NmMxNDljMTFmODgxNTEzYTFjMWRiNGYwZDAxM2VmNmY3OTQ5NTFhNmI2Nzg"
       },
       {
-        "_id": "6398945a9860a2192e7c8545",
-        "id": 20,
+        "id": "6398945a9860a2192e7c8545",
+        "__id": 20,
         "imglink": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI",
         "name": "Panasonic 1.8 litres Rice Cooker, SR-WA18 (GE9)",
         "MRP": 3395,
@@ -381,8 +381,8 @@
         "img3": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI"
       },
       {
-        "_id": "6398945a9860a2192e7c8546",
-        "id": 21,
+        "id": "6398945a9860a2192e7c8546",
+        "__id": 21,
         "imglink": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTcyODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGU3L2gxNC85NzU1MTY3NDI0NTQyLmpwZ3wzMzRhZGZmYmZjNzU1YWNiMmQwOGQ2NmNmNjRjZDdlYjE1ZDEzNDAzZmEyN2I5NjZlZjVhYWQ3NTU5M2M4Yjk1",
         "name": "Kelvinator 1.8L 1200W Food Grade Electric Kettle with Water Level Indicator, LED Light, Dry Boil Protection, Auto Shut-off, 2 Years Warranty",
         "MRP": 1999,
@@ -400,8 +400,8 @@
         "img3": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3w0MzU1fGltYWdlL2pwZWd8aW1hZ2VzL2gzZS9oMzkvOTc1NTE2ODE0NTQzOC5qcGd8MDI3Zjc2MGM0OWI5N2JjYWI5OGIzMDIxNDNjZjRkYWQwYjk4NWZjZWM4MDM0OGY2Mzc4ZmQ4OGUyZGFkMjc1MA"
       },
       {
-        "_id": "6398945a9860a2192e7c8547",
-        "id": 22,
+        "id": "6398945a9860a2192e7c8547",
+        "__id": 22,
         "imglink": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODMyODh8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g3YS85NjIwMzI4NDE1MjYyLmpwZ3xiYmIwYzMwMzI0YWYyMmM0MjdjYTM5Mzc0ODk5MWY0MmFiYWEwNGU0YWZhNzIzNDUwMDQ0YmFmMTE0ODlmNzhj",
         "name": "BPL Beard Trimmer with Digital Battery Indicator, 70mins Cordless Usage, Fast Charging, 4 Comb Settings, 2 Years Warranty, Black and Light Gold",
         "MRP": 1699,
@@ -419,8 +419,8 @@
         "img3": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyNjQyNnxpbWFnZS9qcGVnfGltYWdlcy9oM2MvaDlmLzk2MjAzMjkxMzYxNTguanBnfDVhY2FiNWRjMjliOGZmNTZhZTQ5NmMxNDljMTFmODgxNTEzYTFjMWRiNGYwZDAxM2VmNmY3OTQ5NTFhNmI2Nzg"
       },
       {
-        "_id": "6398945a9860a2192e7c8548",
-        "id": 23,
+        "id": "6398945a9860a2192e7c8548",
+        "__id": 23,
         "imglink": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI",
         "name": "Panasonic 1.8 litres Rice Cooker, SR-WA18 (GE9)",
         "MRP": 3395,
@@ -438,10 +438,10 @@
         "img3": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI"
       },
       {
-        "_id": "6398945a9860a2192e7c8549",
-        "id": 24,
+        "id": "6398945a9860a2192e7c8549",
+        "__id": 24,
         "imglink": "https://www.reliancedigital.in/medias/Reconnect-DSM302-CA-Sandwich-Maker-491604309-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1NjI4NzJ8aW1hZ2UvanBlZ3xpbWFnZXMvaDcwL2gyNS85NTQ1NDI5Mzg1MjQ2LmpwZ3wyZDQ1NGMxYjAxNTdiN2IwYTc2NDRlYzFkNzA1YzYyMjQ1NWFhY2JjMGZiOWQwNjAwNWM4MTljNDUxNDhhZDRl",
-        "name": "Reconnect Captain America Sandwich Maker with Theme Impression, Non-Stick Plates, Cool Coating for Burn-Free Touch, Heat-up Light Indicator, Lid Lock, Compact Vertical Storage, 2 Years Warranty",
+        "name": "Reconnect Captain America Sandwich Maker with Theme Impression, Non-Stick Plates, Cool Coating for Burn-Free Touch, Heat-up Light Indicator, L__id Lock, Compact Vertical Storage, 2 Years Warranty",
         "MRP": 2199,
         "MRPx": "₹2,199",
         "brand": "Reconnect",
@@ -457,8 +457,8 @@
         "img3": "https://www.reliancedigital.in/medias/Reconnect-DSM302-CA-Sandwich-Maker-491604309-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyNjUxMXxpbWFnZS9qcGVnfGltYWdlcy9oNjMvaGQ2Lzk1NDU0MjU3ODA3NjYuanBnfGE3ZDhlOGE3ZjBmZjdlYjUyYWRhOGY0ZjI3MWQwNDUxNzkxZjdlNjU4ZmEyZjZmMTkxMzdjYzFkNmZmZWIxMDU"
       },
       {
-        "_id": "6398945a9860a2192e7c854a",
-        "id": 25,
+        "id": "6398945a9860a2192e7c854a",
+        "__id": 25,
         "imglink": "https://www.reliancedigital.in/medias/hindware-calisto-Water-Purifier-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNzk5OXxpbWFnZS9qcGVnfGltYWdlcy9oYmYvaDJlLzk3NDQ0NDcxMTExOTguanBnfDg5YzRlZDBlMjNjZDIyMDE2OGJmZjgxZjlkYWQyNWMwNzkxNGI1NTgzMWQ5OGM0NmI2NDRmZmFiOGJhMDliZjI",
         "name": "Hindware Calisto 7 Litres RO+UV+UF Water Purifier with Smart LED Indicators, White (WR-18071UFN)",
         "MRP": 14990,
@@ -476,8 +476,8 @@
         "img3": "https://www.reliancedigital.in/medias/hindware-calisto-Water-Purifier-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wxNTI4fGltYWdlL2pwZWd8aW1hZ2VzL2g1YS9oNDEvOTc0NDQ0NzgzMjA5NC5qcGd8YmYwNzU5OTg0NTUzN2RiZmUxMjYzMzcyNjIwZDk1MGJkOWRhNGRmYjYxZTFlMjIzMTc1ODQxYzczM2IwMzg2NA"
       },
       {
-        "_id": "6398945a9860a2192e7c854b",
-        "id": 26,
+        "id": "6398945a9860a2192e7c854b",
+        "__id": 26,
         "imglink": "https://www.reliancedigital.in/medias/BPL-BBT001MLC-Beard-Trimmer-491903144-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDIyMzl8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g5Yy85NjEzNTc0MzczNDA2LmpwZ3w2YzY0NjMyNGRmYjQ5NTIzNWI3Y2FlODQ4YzFmN2JkNjRkNGM2YmJiZTJlMDA3NDQ5YTJhZTMxODQ3MGMwNWRl",
         "name": "BPL 2-in-1 Beard and Nose Trimmer, 45mins Cordless Usage, 3mm-12mm Adjustable Comb, 2 Years Warranty, Navy Blue",
         "MRP": 1299,
@@ -495,8 +495,8 @@
         "img3": "https://www.reliancedigital.in/medias/BPL-BBT001MLC-Beard-Trimmer-491903144-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyMjg1M3xpbWFnZS9qcGVnfGltYWdlcy9oOGMvaGMzLzk2MTM1NzUwOTQzMDIuanBnfGY4NzljNWIxOTA5MDA0ZWI1MTkyYzM2YjcxYzI2OTYyYzcwM2Q0YWU2NjFkOWVmNzU5YTFlMzAyOWQxMTA3ODg"
       },
       {
-        "_id": "6398945a9860a2192e7c854c",
-        "id": 27,
+        "id": "6398945a9860a2192e7c854c",
+        "__id": 27,
         "imglink": "https://www.reliancedigital.in/medias/Inalsa-Jazz-Pro-Juicer-Mixer-Grinder-491959502-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNjk2MjV8aW1hZ2UvanBlZ3xpbWFnZXMvaDE5L2hmOS85NTUwNjQxNjkyNzAyLmpwZ3w0OWYzYWU2YmM3ZTQ1ZTYyYjNjZWQ3NjdiZWJlMTFkNGQ4YTRhYTFhMmQ5MWRiZjA2NmViNTE4NmRkYTc2MzQy",
         "name": "Inalsa Jazz Pro 550 Watts Mixer Grinder With 3 Speed Setting",
         "MRP": 4495,
@@ -514,8 +514,8 @@
         "img3": "https://www.reliancedigital.in/medias/Inalsa-Jazz-Pro-Juicer-Mixer-Grinder-491959502-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyOTc1OXxpbWFnZS9qcGVnfGltYWdlcy9oMzMvaGM5Lzk1NTA2NDI0MTM1OTguanBnfDE5NGEzOWRhNTZkYTFmOTNmNGYyYjgwZjFjMTBjNmFkMTRmOGMzMjIwNmNmMGFkZjg0MzAwNmRmYzZhNzcxMDM"
       },
       {
-        "_id": "6398945a9860a2192e7c854d",
-        "id": 28,
+        "id": "6398945a9860a2192e7c854d",
+        "__id": 28,
         "imglink": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTcyODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGU3L2gxNC85NzU1MTY3NDI0NTQyLmpwZ3wzMzRhZGZmYmZjNzU1YWNiMmQwOGQ2NmNmNjRjZDdlYjE1ZDEzNDAzZmEyN2I5NjZlZjVhYWQ3NTU5M2M4Yjk1",
         "name": "Kelvinator 1.8L 1200W Food Grade Electric Kettle with Water Level Indicator, LED Light, Dry Boil Protection, Auto Shut-off, 2 Years Warranty",
         "MRP": 1999,
@@ -533,8 +533,8 @@
         "img3": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3w0MzU1fGltYWdlL2pwZWd8aW1hZ2VzL2gzZS9oMzkvOTc1NTE2ODE0NTQzOC5qcGd8MDI3Zjc2MGM0OWI5N2JjYWI5OGIzMDIxNDNjZjRkYWQwYjk4NWZjZWM4MDM0OGY2Mzc4ZmQ4OGUyZGFkMjc1MA"
       },
       {
-        "_id": "6398945a9860a2192e7c854e",
-        "id": 29,
+        "id": "6398945a9860a2192e7c854e",
+        "__id": 29,
         "imglink": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODMyODh8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g3YS85NjIwMzI4NDE1MjYyLmpwZ3xiYmIwYzMwMzI0YWYyMmM0MjdjYTM5Mzc0ODk5MWY0MmFiYWEwNGU0YWZhNzIzNDUwMDQ0YmFmMTE0ODlmNzhj",
         "name": "BPL Beard Trimmer with Digital Battery Indicator, 70mins Cordless Usage, Fast Charging, 4 Comb Settings, 2 Years Warranty, Black and Light Gold",
         "MRP": 1699,
@@ -552,8 +552,8 @@
         "img3": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyNjQyNnxpbWFnZS9qcGVnfGltYWdlcy9oM2MvaDlmLzk2MjAzMjkxMzYxNTguanBnfDVhY2FiNWRjMjliOGZmNTZhZTQ5NmMxNDljMTFmODgxNTEzYTFjMWRiNGYwZDAxM2VmNmY3OTQ5NTFhNmI2Nzg"
       },
       {
-        "_id": "6398945a9860a2192e7c854f",
-        "id": 30,
+        "id": "6398945a9860a2192e7c854f",
+        "__id": 30,
         "imglink": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI",
         "name": "Panasonic 1.8 litres Rice Cooker, SR-WA18 (GE9)",
         "MRP": 3395,
@@ -571,8 +571,8 @@
         "img3": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI"
       },
       {
-        "_id": "63f499e3917a41adf541c51c",
-        "id": 33,
+        "id": "63f499e3917a41adf541c51c",
+        "__id": 33,
         "imglink": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTcyODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGU3L2gxNC85NzU1MTY3NDI0NTQyLmpwZ3wzMzRhZGZmYmZjNzU1YWNiMmQwOGQ2NmNmNjRjZDdlYjE1ZDEzNDAzZmEyN2I5NjZlZjVhYWQ3NTU5M2M4Yjk1",
         "name": "Kelvinator 1.8L 1200W Food Grade Electric Kettle with Water Level Indicator, LED Light, Dry Boil Protection, Auto Shut-off, 2 Years Warranty",
         "MRP": 1999,
@@ -589,8 +589,8 @@
         "__v": 0
       },
       {
-        "_id": "63f5dceb20c179a0aaaf223b",
-        "id": 8,
+        "id": "63f5dceb20c179a0aaaf223b",
+        "__id": 8,
         "imglink": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTcyODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGU3L2gxNC85NzU1MTY3NDI0NTQyLmpwZ3wzMzRhZGZmYmZjNzU1YWNiMmQwOGQ2NmNmNjRjZDdlYjE1ZDEzNDAzZmEyN2I5NjZlZjVhYWQ3NTU5M2M4Yjk1",
         "name": "Kelvinator 1.8L 1200W Food Grade Electric Kettle with Water Level Indicator, LED Light, Dry Boil Protection, Auto Shut-off, 2 Years Warranty",
         "MRP": 1999,
