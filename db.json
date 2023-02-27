@@ -1,8 +1,9 @@
 {
-    "watch": [
+    "products": [
         {
             "id": "639894d09860a2192e7c85a7",
             "_id": 2,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Fire-Boltt-BSW020-Sports-Fitness-Watches-492575002-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0MzYwMjl8aW1hZ2UvanBlZ3xpbWFnZXMvaDYzL2hhOC85ODU4MDg2MjczMDU0LmpwZ3w3MjcwZWI1M2ZkNmE4YTlmODM3ZjdjOWI5Y2IwMGIwMTUzNTliOGFjYTkwOTllOWViMWVlYjYxMGI2ZDdmNWMy",
             "name": "Fire-Boltt BSW020 Invincible Smart Watch with Bluetooth calling and 8GB Memory Storage (Black)",
             "MRP": 19999,
@@ -22,6 +23,7 @@
         {
             "id": "639894d09860a2192e7c85a8",
             "_id": 3,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Fire-Boltt-Smartwatch-BSW001-Black-491996737-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMzk2Nzl8aW1hZ2UvanBlZ3xpbWFnZXMvaDA1L2hjZC85NTY2OTg0ODMxMDA2LmpwZ3wxYjlhMjIyOTQ5YzY4ZWQ3ZDBkZDA1ZmRlYTBiMDc2MTBlZWQ5MjU2YjExODIyY2NiMWUxZmY3MzAzYWMzYWFm",
             "name": "Fire-Boltt BSW001 Smart Watch with SPO2, Heart Rate, BP, Fitness and Sports Tracking, Black",
             "MRP": 13990,
@@ -41,6 +43,7 @@
         {
             "id": "639894d09860a2192e7c85a9",
             "_id": 4,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Fire-Boltt-Ninja-Smartwatch-492403641-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3MTI2M3xpbWFnZS9qcGVnfGltYWdlcy9oNTIvaDE3Lzk4NTIzMTczMzU1ODIuanBnfDM2MWVlZjgwYjJiYzVmYjJkM2Q3N2FjNWNkZTZhYTlmNmE3ODhlMTAxMDVhMDJhZjU3Y2U0YThmZmY1MGU3MjE",
             "name": "Fire Boltt Ninja Dial Smartwatch, Navy Blue",
             "MRP": 18499,
@@ -60,6 +63,7 @@
         {
             "id": "639894d09860a2192e7c85aa",
             "_id": 5,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Noise-Colorfit-Grande-Smart-Watch-492850519-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2MDMwNXxpbWFnZS9qcGVnfGltYWdlcy9oZmIvaDIyLzk4NDMyNjM3OTkzMjYuanBnfDgxNzU4ZTNlMTliMWI2ZTdlMTFiMWU3ODdiZDkwNmExYWZjOTYwYTlhZjk5MGRhODhmODAyZmE1ZDA4NjhhNjE",
             "name": "Noise Colorfit Grande Smart Watch, Jet Black",
             "MRP": 39990,
@@ -79,6 +83,7 @@
         {
             "id": "639894d09860a2192e7c85ab",
             "_id": 6,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/boAt-Watch-Flash-RTL-Smart-Watches-492574195-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMDY5NjF8aW1hZ2UvanBlZ3xpbWFnZXMvaDZhL2gwYy85NzU1Nzc4MzUxMTM0LmpwZ3w1N2Y0YmQzZTZiZGE5MjZlNWNmZjM2MDI4MmU3M2RmZTViZmExOWI0ZjYyZTE0MzZlOGNlODBkYjljMzY1NzNi",
             "name": "boAt Flash RTL 3.3 cm (1.29 inch) Smart Watch with Customizable Watch Faces, Lightning Black",
             "MRP": 21999,
@@ -98,6 +103,7 @@
         {
             "id": "639894d09860a2192e7c85ac",
             "_id": 7,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Fire-Boltt-Ninja-Pro-Max-Smart-Watch-492574963-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMzg1NDV8aW1hZ2UvanBlZ3xpbWFnZXMvaDdlL2hlMy85ODE3NTExODIxMzQyLmpwZ3w3NDUzYzgzYzA4MWY2MTBlODk4Nzg5M2I2MjVjMTFiYjA1N2JkYmY1MDBiMjA2MzQyNjI3NzEwZmZkNjY5NjFi",
             "name": "Fire-Boltt Ninja Pro Max Smart Watch, Black",
             "MRP": 24999,
@@ -117,6 +123,7 @@
         {
             "id": "639894d09860a2192e7c85ad",
             "_id": 8,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Apple-MTF32HN-A-Smart-Watches-491488097-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0NDY2MnxpbWFnZS9qcGVnfGltYWdlcy9oMGQvaGRjLzkxOTY1ODA5Mjk1NjYuanBnfGMxMGQxNDEwZTgwM2Y2YjI3NTBhN2QxZGE3YzRlMjM3MTBlN2UzOWE4ZTFiOWE0OWZlOGI2MzMyOThmYjlkZGE",
             "name": "Apple Watch Series 3 GPS - 42 mm Space Grey Aluminium Case with Black Sport Band",
             "MRP": 33999,
@@ -136,6 +143,7 @@
         {
             "id": "639894d09860a2192e7c85ae",
             "_id": 9,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Hammer-PULSE-3-0-Smart-Watch-492849894-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3NTc2NnxpbWFnZS9qcGVnfGltYWdlcy9oOTAvaGVhLzk4MTQ3MTk3MjU1OTguanBnfDIwNmE0ZTYxZWZjODMwMDUxZTBiNWE0ZTM4YzFhODIzNDBkM2FlNmUzZTliNDIyY2I2ZjI5YWMxOGMzYzkwZmE",
             "name": "Hammer Pulse 3.0 Bluetooth Calling Smartwatch with Honeycomb Design (Black)",
             "MRP": 22900,
@@ -155,6 +163,7 @@
         {
             "id": "639894d09860a2192e7c85af",
             "_id": 10,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Fire-Boltt-BSW020-Sports-Fitness-Watches-492575002-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0MzYwMjl8aW1hZ2UvanBlZ3xpbWFnZXMvaDYzL2hhOC85ODU4MDg2MjczMDU0LmpwZ3w3MjcwZWI1M2ZkNmE4YTlmODM3ZjdjOWI5Y2IwMGIwMTUzNTliOGFjYTkwOTllOWViMWVlYjYxMGI2ZDdmNWMy",
             "name": "Fire-Boltt BSW020 Invincible Smart Watch with Bluetooth calling and 8GB Memory Storage (Black)",
             "MRP": 19999,
@@ -174,6 +183,7 @@
         {
             "id": "639894d09860a2192e7c85b0",
             "_id": 11,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Fire-Boltt-Smartwatch-BSW001-Black-491996737-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMzk2Nzl8aW1hZ2UvanBlZ3xpbWFnZXMvaDA1L2hjZC85NTY2OTg0ODMxMDA2LmpwZ3wxYjlhMjIyOTQ5YzY4ZWQ3ZDBkZDA1ZmRlYTBiMDc2MTBlZWQ5MjU2YjExODIyY2NiMWUxZmY3MzAzYWMzYWFm",
             "name": "Fire-Boltt BSW001 Smart Watch with SPO2, Heart Rate, BP, Fitness and Sports Tracking, Black",
             "MRP": 13990,
@@ -193,6 +203,7 @@
         {
             "id": "639894d09860a2192e7c85b1",
             "_id": 12,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Fire-Boltt-Ninja-Smartwatch-492403641-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3MTI2M3xpbWFnZS9qcGVnfGltYWdlcy9oNTIvaDE3Lzk4NTIzMTczMzU1ODIuanBnfDM2MWVlZjgwYjJiYzVmYjJkM2Q3N2FjNWNkZTZhYTlmNmE3ODhlMTAxMDVhMDJhZjU3Y2U0YThmZmY1MGU3MjE",
             "name": "Fire Boltt Ninja Dial Smartwatch, Navy Blue",
             "MRP": 18499,
@@ -212,6 +223,7 @@
         {
             "id": "639894d09860a2192e7c85b2",
             "_id": 13,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Noise-Colorfit-Grande-Smart-Watch-492850519-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2MDMwNXxpbWFnZS9qcGVnfGltYWdlcy9oZmIvaDIyLzk4NDMyNjM3OTkzMjYuanBnfDgxNzU4ZTNlMTliMWI2ZTdlMTFiMWU3ODdiZDkwNmExYWZjOTYwYTlhZjk5MGRhODhmODAyZmE1ZDA4NjhhNjE",
             "name": "Noise Colorfit Grande Smart Watch, Jet Black",
             "MRP": 39990,
@@ -231,6 +243,7 @@
         {
             "id": "639894d09860a2192e7c85b3",
             "_id": 14,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/boAt-Watch-Flash-RTL-Smart-Watches-492574195-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMDY5NjF8aW1hZ2UvanBlZ3xpbWFnZXMvaDZhL2gwYy85NzU1Nzc4MzUxMTM0LmpwZ3w1N2Y0YmQzZTZiZGE5MjZlNWNmZjM2MDI4MmU3M2RmZTViZmExOWI0ZjYyZTE0MzZlOGNlODBkYjljMzY1NzNi",
             "name": "boAt Flash RTL 3.3 cm (1.29 inch) Smart Watch with Customizable Watch Faces, Lightning Black",
             "MRP": 21999,
@@ -250,6 +263,7 @@
         {
             "id": "639894d09860a2192e7c85b4",
             "_id": 15,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Fire-Boltt-Ninja-Pro-Max-Smart-Watch-492574963-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMzg1NDV8aW1hZ2UvanBlZ3xpbWFnZXMvaDdlL2hlMy85ODE3NTExODIxMzQyLmpwZ3w3NDUzYzgzYzA4MWY2MTBlODk4Nzg5M2I2MjVjMTFiYjA1N2JkYmY1MDBiMjA2MzQyNjI3NzEwZmZkNjY5NjFi",
             "name": "Fire-Boltt Ninja Pro Max Smart Watch, Black",
             "MRP": 24999,
@@ -269,6 +283,7 @@
         {
             "id": "639894d09860a2192e7c85b5",
             "_id": 16,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Apple-MTF32HN-A-Smart-Watches-491488097-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0NDY2MnxpbWFnZS9qcGVnfGltYWdlcy9oMGQvaGRjLzkxOTY1ODA5Mjk1NjYuanBnfGMxMGQxNDEwZTgwM2Y2YjI3NTBhN2QxZGE3YzRlMjM3MTBlN2UzOWE4ZTFiOWE0OWZlOGI2MzMyOThmYjlkZGE",
             "name": "Apple Watch Series 3 GPS - 42 mm Space Grey Aluminium Case with Black Sport Band",
             "MRP": 33999,
@@ -288,6 +303,7 @@
         {
             "id": "639894d09860a2192e7c85b6",
             "_id": 17,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Hammer-PULSE-3-0-Smart-Watch-492849894-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3NTc2NnxpbWFnZS9qcGVnfGltYWdlcy9oOTAvaGVhLzk4MTQ3MTk3MjU1OTguanBnfDIwNmE0ZTYxZWZjODMwMDUxZTBiNWE0ZTM4YzFhODIzNDBkM2FlNmUzZTliNDIyY2I2ZjI5YWMxOGMzYzkwZmE",
             "name": "Hammer Pulse 3.0 Bluetooth Calling Smartwatch with Honeycomb Design (Black)",
             "MRP": 22900,
@@ -307,6 +323,7 @@
         {
             "id": "639894d09860a2192e7c85b7",
             "_id": 18,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Fire-Boltt-BSW020-Sports-Fitness-Watches-492575002-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0MzYwMjl8aW1hZ2UvanBlZ3xpbWFnZXMvaDYzL2hhOC85ODU4MDg2MjczMDU0LmpwZ3w3MjcwZWI1M2ZkNmE4YTlmODM3ZjdjOWI5Y2IwMGIwMTUzNTliOGFjYTkwOTllOWViMWVlYjYxMGI2ZDdmNWMy",
             "name": "Fire-Boltt BSW020 Invincible Smart Watch with Bluetooth calling and 8GB Memory Storage (Black)",
             "MRP": 19999,
@@ -326,6 +343,7 @@
         {
             "id": "639894d09860a2192e7c85b8",
             "_id": 19,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Fire-Boltt-Smartwatch-BSW001-Black-491996737-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMzk2Nzl8aW1hZ2UvanBlZ3xpbWFnZXMvaDA1L2hjZC85NTY2OTg0ODMxMDA2LmpwZ3wxYjlhMjIyOTQ5YzY4ZWQ3ZDBkZDA1ZmRlYTBiMDc2MTBlZWQ5MjU2YjExODIyY2NiMWUxZmY3MzAzYWMzYWFm",
             "name": "Fire-Boltt BSW001 Smart Watch with SPO2, Heart Rate, BP, Fitness and Sports Tracking, Black",
             "MRP": 13990,
@@ -345,6 +363,7 @@
         {
             "id": "639894d09860a2192e7c85b9",
             "_id": 20,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Fire-Boltt-Ninja-Smartwatch-492403641-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3MTI2M3xpbWFnZS9qcGVnfGltYWdlcy9oNTIvaDE3Lzk4NTIzMTczMzU1ODIuanBnfDM2MWVlZjgwYjJiYzVmYjJkM2Q3N2FjNWNkZTZhYTlmNmE3ODhlMTAxMDVhMDJhZjU3Y2U0YThmZmY1MGU3MjE",
             "name": "Fire Boltt Ninja Dial Smartwatch, Navy Blue",
             "MRP": 18499,
@@ -364,6 +383,7 @@
         {
             "id": "639894d09860a2192e7c85ba",
             "_id": 21,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Noise-Colorfit-Grande-Smart-Watch-492850519-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2MDMwNXxpbWFnZS9qcGVnfGltYWdlcy9oZmIvaDIyLzk4NDMyNjM3OTkzMjYuanBnfDgxNzU4ZTNlMTliMWI2ZTdlMTFiMWU3ODdiZDkwNmExYWZjOTYwYTlhZjk5MGRhODhmODAyZmE1ZDA4NjhhNjE",
             "name": "Noise Colorfit Grande Smart Watch, Jet Black",
             "MRP": 39990,
@@ -383,6 +403,7 @@
         {
             "id": "639894d09860a2192e7c85bb",
             "_id": 22,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/boAt-Watch-Flash-RTL-Smart-Watches-492574195-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMDY5NjF8aW1hZ2UvanBlZ3xpbWFnZXMvaDZhL2gwYy85NzU1Nzc4MzUxMTM0LmpwZ3w1N2Y0YmQzZTZiZGE5MjZlNWNmZjM2MDI4MmU3M2RmZTViZmExOWI0ZjYyZTE0MzZlOGNlODBkYjljMzY1NzNi",
             "name": "boAt Flash RTL 3.3 cm (1.29 inch) Smart Watch with Customizable Watch Faces, Lightning Black",
             "MRP": 21999,
@@ -402,6 +423,7 @@
         {
             "id": "639894d09860a2192e7c85bc",
             "_id": 23,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Fire-Boltt-Ninja-Pro-Max-Smart-Watch-492574963-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMzg1NDV8aW1hZ2UvanBlZ3xpbWFnZXMvaDdlL2hlMy85ODE3NTExODIxMzQyLmpwZ3w3NDUzYzgzYzA4MWY2MTBlODk4Nzg5M2I2MjVjMTFiYjA1N2JkYmY1MDBiMjA2MzQyNjI3NzEwZmZkNjY5NjFi",
             "name": "Fire-Boltt Ninja Pro Max Smart Watch, Black",
             "MRP": 24999,
@@ -421,6 +443,7 @@
         {
             "id": "639894d09860a2192e7c85bd",
             "_id": 24,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Apple-MTF32HN-A-Smart-Watches-491488097-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0NDY2MnxpbWFnZS9qcGVnfGltYWdlcy9oMGQvaGRjLzkxOTY1ODA5Mjk1NjYuanBnfGMxMGQxNDEwZTgwM2Y2YjI3NTBhN2QxZGE3YzRlMjM3MTBlN2UzOWE4ZTFiOWE0OWZlOGI2MzMyOThmYjlkZGE",
             "name": "Apple Watch Series 3 GPS - 42 mm Space Grey Aluminium Case with Black Sport Band",
             "MRP": 33999,
@@ -440,6 +463,7 @@
         {
             "id": "63f5ddcf20c179a0aaaf2244",
             "_id": 42,
+            "category": "watches",
             "imglink": "https://www.reliancedigital.in/medias/Fire-Boltt-BSW020-Sports-Fitness-Watches-492575002-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0MzYwMjl8aW1hZ2UvanBlZ3xpbWFnZXMvaDYzL2hhOC85ODU4MDg2MjczMDU0LmpwZ3w3MjcwZWI1M2ZkNmE4YTlmODM3ZjdjOWI5Y2IwMGIwMTUzNTliOGFjYTkwOTllOWViMWVlYjYxMGI2ZDdmNWMy",
             "name": "Fire-Boltt BSW020 Invincible Smart Watch with Bluetooth calling and 8GB Memory Storage (Black)",
             "MRP": 19999,
@@ -454,12 +478,11 @@
             "img2": "https://www.reliancedigital.in/medias/Fire-Boltt-BSW020-Sports-Fitness-Watches-492575002-i-2-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wzNzU4MHxpbWFnZS9qcGVnfGltYWdlcy9oZjIvaGI3Lzk4NTgwODc2NDkzMTAuanBnfDUwZTlmZmJhZmNmMjc3ZjBmMjU5ZTAwOWIxMTQwOWE3N2M0ZTA2NTkxMGUyZmQzMzM5NjY1YjhmY2IyMGZiYzY",
             "img3": "https://www.reliancedigital.in/medias/Fire-Boltt-BSW020-Sports-Fitness-Watches-492575002-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wzMzgxNnxpbWFnZS9qcGVnfGltYWdlcy9oNzYvaGU3Lzk4NTgwODg2MzIzNTAuanBnfDU0ZDVlZGIwOWFhZjQzMjQzMjdlZjQ3NTE3NWE3YTUzNjBlMzNmOTNkYzVlNGFmZmZlODZkZjcyY2QwN2IxNDY",
             "__v": 0
-        }
-    ],
-    "soundbar": [
+        },
         {
             "id": "6399e44230a60076156b54b8",
             "_id": 1,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/LG-SN4-Sound-Bar-492796654-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2Mzk4MXxpbWFnZS9qcGVnfGltYWdlcy9oN2QvaDQ5Lzk4MTY2NTE4NTc5NTAuanBnfDUxM2M0ZTEzMmZkM2NlMjY2OWVjNjE3NTkwNDA4MzcwMzA0MTBlZGY1MTZjYWU0ZWUyMmU2OWQyZDc0ZmQ5Yjk",
             "name": "LG SN4 300 Watts 2.1 Channel Sound Bar",
             "MRP": 22900,
@@ -479,6 +502,7 @@
         {
             "id": "6399e44230a60076156b54b9",
             "_id": 2,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Infinity-Cinebar-200-TV-Speakers-and-Soundbar-491936141-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0OTUyMXxpbWFnZS9qcGVnfGltYWdlcy9oMWEvaDVjLzk1MTQ2NjgwNjQ3OTguanBnfGNiYjI4OTYyMWM3MzMzNDc3NTI3ZmJiNTIxZGU0N2M5NWU3MDk0YjhmZmY4MGUyY2U1MTAyMTJkN2MzOWUwMGM",
             "name": "Infinity (JBL) Cinebar W200 2.1 Channel Bluetooth Sound Bar with Wireless Sub Woofer (160W Peak Power, Deep Bass Output)",
             "MRP": 19999,
@@ -498,6 +522,7 @@
         {
             "id": "6399e44230a60076156b54ba",
             "_id": 3,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Sony-5-1-CH-Soundbar-Home-Theatre-S20R-Black-491666475-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMzI0NDl8aW1hZ2UvanBlZ3xpbWFnZXMvaDY4L2hjMi85MzAxMjcwOTg2NzgyLmpwZ3xkNjU3MDhjYTk5N2U2YTlhNGZjYjI0NjlmNjM0ZDYwOTdiMmVjNWJlMzc0N2Q4Yzg5OWU2MWQ5MDk3ZjFmNWM1",
             "name": "Sony HT-S20R 400 watts 5.1 Channel Dolby Digital Soundbar Home Theatre System(Bluetooth Connectivity,USB Connectivity)",
             "MRP": 13990,
@@ -517,6 +542,7 @@
         {
             "id": "6399e44230a60076156b54bb",
             "_id": 4,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Samsung-HW-T420-XL-TV-Speakers-and-Soundbar-491891546-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0MDM0MnxpbWFnZS9qcGVnfGltYWdlcy9oMmEvaGI4Lzk1MTUzOTQyMzY0NDYuanBnfDhiODE4ZjhmOGI5ZTdkNTBlODA5NjJkNTkyMTcwZTQ5ZDA2ZDRkNGU3ZTMyNTk0ZTBjNGQxYTI5ZGM2OGIxYzQ",
             "name": "Samsung HW-T420/XL 2.1 Channel Sound bar",
             "MRP": 18499,
@@ -536,6 +562,7 @@
         {
             "id": "6399e44230a60076156b54bc",
             "_id": 5,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Modget-MOG500BT-Soundbar-Black-492796534-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNjk3MjZ8aW1hZ2UvcG5nfGltYWdlcy9oMWIvaDg5Lzk4MDIxNTQ1MDgzMTgucG5nfDFjMGNjNzkyMGUwMGIyZGVkNDMzNGI1OWY5YjNhNTdjNzA5Y2VlNjU2MDMyYjcxMDc3MTYxMWViNzdhMmIzNWI",
             "name": "MODGET 500BT 20W Wireless Bluetooth Soundbar with Built-in Microphone, Memory card ,USB, MP3 connectivity, Upto 8Hrs Playback",
             "MRP": 39990,
@@ -555,6 +582,7 @@
         {
             "id": "6399e44230a60076156b54bd",
             "_id": 6,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/JBL-SB130-TV-Speakers-and-Sound-bars-491431613-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMzgwNDR8aW1hZ2UvanBlZ3xpbWFnZXMvaDFkL2g4MC85MTc1MTcwODA5ODg2LmpwZ3xmMjhhNzJlZDUxODFiMzYzZGExMTU4NjBhNTE3ZjVkOWYzN2MxNTY1Zjg0YmQ2NWRiZTUzYTNkMTk5Yzk4Zjlk",
             "name": "JBL Cinema SB130 2.1 Channel Soundbar with Wired Subwoofer (110 Watts, Dolby Digital, Extra Deep Bass)",
             "MRP": 21999,
@@ -574,6 +602,7 @@
         {
             "id": "6399e44230a60076156b54be",
             "_id": 7,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Samsung-A550-TV-Speakers-and-Soundbar-492338576-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3MDc0MHxpbWFnZS9qcGVnfGltYWdlcy9oYTYvaGI2Lzk2MDkwNzk2NTIzODIuanBnfGJmMjI5OTBmM2Y5MGIzM2I4ZDQyMWZkMTVlN2ViNzg4NWFmNDA2Y2Q2Zjc3OGYzY2E4Y2MwZWNjZjgyYTc0MGQ",
             "name": "Samsung A550 2.1 Channel Soundbar",
             "MRP": 24999,
@@ -593,6 +622,7 @@
         {
             "id": "6399e44230a60076156b54bf",
             "_id": 8,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Infinity-Cinebar-200-TV-Speakers-and-Soundbar-491936141-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0OTUyMXxpbWFnZS9qcGVnfGltYWdlcy9oMWEvaDVjLzk1MTQ2NjgwNjQ3OTguanBnfGNiYjI4OTYyMWM3MzMzNDc3NTI3ZmJiNTIxZGU0N2M5NWU3MDk0YjhmZmY4MGUyY2U1MTAyMTJkN2MzOWUwMGM",
             "name": "Infinity (JBL) Cinebar W200 2.1 Channel Bluetooth Sound Bar with Wireless Sub Woofer (160W Peak Power, Deep Bass Output)",
             "MRP": 19999,
@@ -612,6 +642,7 @@
         {
             "id": "6399e44230a60076156b54c0",
             "_id": 9,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/LG-SN4-Sound-Bar-492796654-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2Mzk4MXxpbWFnZS9qcGVnfGltYWdlcy9oN2QvaDQ5Lzk4MTY2NTE4NTc5NTAuanBnfDUxM2M0ZTEzMmZkM2NlMjY2OWVjNjE3NTkwNDA4MzcwMzA0MTBlZGY1MTZjYWU0ZWUyMmU2OWQyZDc0ZmQ5Yjk",
             "name": "LG SN4 300 Watts 2.1 Channel Sound Bar",
             "MRP": 22900,
@@ -631,6 +662,7 @@
         {
             "id": "6399e44230a60076156b54c1",
             "_id": 10,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Infinity-Cinebar-200-TV-Speakers-and-Soundbar-491936141-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0OTUyMXxpbWFnZS9qcGVnfGltYWdlcy9oMWEvaDVjLzk1MTQ2NjgwNjQ3OTguanBnfGNiYjI4OTYyMWM3MzMzNDc3NTI3ZmJiNTIxZGU0N2M5NWU3MDk0YjhmZmY4MGUyY2U1MTAyMTJkN2MzOWUwMGM",
             "name": "Infinity (JBL) Cinebar W200 2.1 Channel Bluetooth Sound Bar with Wireless Sub Woofer (160W Peak Power, Deep Bass Output)",
             "MRP": 19999,
@@ -650,6 +682,7 @@
         {
             "id": "6399e44230a60076156b54c2",
             "_id": 11,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Sony-5-1-CH-Soundbar-Home-Theatre-S20R-Black-491666475-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMzI0NDl8aW1hZ2UvanBlZ3xpbWFnZXMvaDY4L2hjMi85MzAxMjcwOTg2NzgyLmpwZ3xkNjU3MDhjYTk5N2U2YTlhNGZjYjI0NjlmNjM0ZDYwOTdiMmVjNWJlMzc0N2Q4Yzg5OWU2MWQ5MDk3ZjFmNWM1",
             "name": "Sony HT-S20R 400 watts 5.1 Channel Dolby Digital Soundbar Home Theatre System(Bluetooth Connectivity,USB Connectivity)",
             "MRP": 13990,
@@ -669,6 +702,7 @@
         {
             "id": "6399e44230a60076156b54c3",
             "_id": 12,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Samsung-HW-T420-XL-TV-Speakers-and-Soundbar-491891546-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0MDM0MnxpbWFnZS9qcGVnfGltYWdlcy9oMmEvaGI4Lzk1MTUzOTQyMzY0NDYuanBnfDhiODE4ZjhmOGI5ZTdkNTBlODA5NjJkNTkyMTcwZTQ5ZDA2ZDRkNGU3ZTMyNTk0ZTBjNGQxYTI5ZGM2OGIxYzQ",
             "name": "Samsung HW-T420/XL 2.1 Channel Sound bar",
             "MRP": 18499,
@@ -688,6 +722,7 @@
         {
             "id": "6399e44230a60076156b54c4",
             "_id": 13,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Modget-MOG500BT-Soundbar-Black-492796534-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNjk3MjZ8aW1hZ2UvcG5nfGltYWdlcy9oMWIvaDg5Lzk4MDIxNTQ1MDgzMTgucG5nfDFjMGNjNzkyMGUwMGIyZGVkNDMzNGI1OWY5YjNhNTdjNzA5Y2VlNjU2MDMyYjcxMDc3MTYxMWViNzdhMmIzNWI",
             "name": "MODGET 500BT 20W Wireless Bluetooth Soundbar with Built-in Microphone, Memory card ,USB, MP3 connectivity, Upto 8Hrs Playback",
             "MRP": 39990,
@@ -707,6 +742,7 @@
         {
             "id": "6399e44230a60076156b54c5",
             "_id": 14,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/JBL-SB130-TV-Speakers-and-Sound-bars-491431613-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMzgwNDR8aW1hZ2UvanBlZ3xpbWFnZXMvaDFkL2g4MC85MTc1MTcwODA5ODg2LmpwZ3xmMjhhNzJlZDUxODFiMzYzZGExMTU4NjBhNTE3ZjVkOWYzN2MxNTY1Zjg0YmQ2NWRiZTUzYTNkMTk5Yzk4Zjlk",
             "name": "JBL Cinema SB130 2.1 Channel Soundbar with Wired Subwoofer (110 Watts, Dolby Digital, Extra Deep Bass)",
             "MRP": 21999,
@@ -726,6 +762,7 @@
         {
             "id": "6399e44230a60076156b54c6",
             "_id": 15,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Samsung-A550-TV-Speakers-and-Soundbar-492338576-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3MDc0MHxpbWFnZS9qcGVnfGltYWdlcy9oYTYvaGI2Lzk2MDkwNzk2NTIzODIuanBnfGJmMjI5OTBmM2Y5MGIzM2I4ZDQyMWZkMTVlN2ViNzg4NWFmNDA2Y2Q2Zjc3OGYzY2E4Y2MwZWNjZjgyYTc0MGQ",
             "name": "Samsung A550 2.1 Channel Soundbar",
             "MRP": 24999,
@@ -745,6 +782,7 @@
         {
             "id": "6399e44230a60076156b54c7",
             "_id": 16,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Infinity-Cinebar-200-TV-Speakers-and-Soundbar-491936141-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0OTUyMXxpbWFnZS9qcGVnfGltYWdlcy9oMWEvaDVjLzk1MTQ2NjgwNjQ3OTguanBnfGNiYjI4OTYyMWM3MzMzNDc3NTI3ZmJiNTIxZGU0N2M5NWU3MDk0YjhmZmY4MGUyY2U1MTAyMTJkN2MzOWUwMGM",
             "name": "Infinity (JBL) Cinebar W200 2.1 Channel Bluetooth Sound Bar with Wireless Sub Woofer (160W Peak Power, Deep Bass Output)",
             "MRP": 19999,
@@ -764,6 +802,7 @@
         {
             "id": "6399e44230a60076156b54c8",
             "_id": 17,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/LG-SN4-Sound-Bar-492796654-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2Mzk4MXxpbWFnZS9qcGVnfGltYWdlcy9oN2QvaDQ5Lzk4MTY2NTE4NTc5NTAuanBnfDUxM2M0ZTEzMmZkM2NlMjY2OWVjNjE3NTkwNDA4MzcwMzA0MTBlZGY1MTZjYWU0ZWUyMmU2OWQyZDc0ZmQ5Yjk",
             "name": "LG SN4 300 Watts 2.1 Channel Sound Bar",
             "MRP": 22900,
@@ -783,6 +822,7 @@
         {
             "id": "6399e44230a60076156b54c9",
             "_id": 18,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Infinity-Cinebar-200-TV-Speakers-and-Soundbar-491936141-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0OTUyMXxpbWFnZS9qcGVnfGltYWdlcy9oMWEvaDVjLzk1MTQ2NjgwNjQ3OTguanBnfGNiYjI4OTYyMWM3MzMzNDc3NTI3ZmJiNTIxZGU0N2M5NWU3MDk0YjhmZmY4MGUyY2U1MTAyMTJkN2MzOWUwMGM",
             "name": "Infinity (JBL) Cinebar W200 2.1 Channel Bluetooth Sound Bar with Wireless Sub Woofer (160W Peak Power, Deep Bass Output)",
             "MRP": 19999,
@@ -802,6 +842,7 @@
         {
             "id": "6399e44230a60076156b54ca",
             "_id": 19,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Sony-5-1-CH-Soundbar-Home-Theatre-S20R-Black-491666475-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMzI0NDl8aW1hZ2UvanBlZ3xpbWFnZXMvaDY4L2hjMi85MzAxMjcwOTg2NzgyLmpwZ3xkNjU3MDhjYTk5N2U2YTlhNGZjYjI0NjlmNjM0ZDYwOTdiMmVjNWJlMzc0N2Q4Yzg5OWU2MWQ5MDk3ZjFmNWM1",
             "name": "Sony HT-S20R 400 watts 5.1 Channel Dolby Digital Soundbar Home Theatre System(Bluetooth Connectivity,USB Connectivity)",
             "MRP": 13990,
@@ -821,6 +862,7 @@
         {
             "id": "6399e44230a60076156b54cb",
             "_id": 20,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Samsung-HW-T420-XL-TV-Speakers-and-Soundbar-491891546-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0MDM0MnxpbWFnZS9qcGVnfGltYWdlcy9oMmEvaGI4Lzk1MTUzOTQyMzY0NDYuanBnfDhiODE4ZjhmOGI5ZTdkNTBlODA5NjJkNTkyMTcwZTQ5ZDA2ZDRkNGU3ZTMyNTk0ZTBjNGQxYTI5ZGM2OGIxYzQ",
             "name": "Samsung HW-T420/XL 2.1 Channel Sound bar",
             "MRP": 18499,
@@ -840,6 +882,7 @@
         {
             "id": "6399e44230a60076156b54cc",
             "_id": 21,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Modget-MOG500BT-Soundbar-Black-492796534-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNjk3MjZ8aW1hZ2UvcG5nfGltYWdlcy9oMWIvaDg5Lzk4MDIxNTQ1MDgzMTgucG5nfDFjMGNjNzkyMGUwMGIyZGVkNDMzNGI1OWY5YjNhNTdjNzA5Y2VlNjU2MDMyYjcxMDc3MTYxMWViNzdhMmIzNWI",
             "name": "MODGET 500BT 20W Wireless Bluetooth Soundbar with Built-in Microphone, Memory card ,USB, MP3 connectivity, Upto 8Hrs Playback",
             "MRP": 39990,
@@ -859,6 +902,7 @@
         {
             "id": "6399e44230a60076156b54cd",
             "_id": 22,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/JBL-SB130-TV-Speakers-and-Sound-bars-491431613-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMzgwNDR8aW1hZ2UvanBlZ3xpbWFnZXMvaDFkL2g4MC85MTc1MTcwODA5ODg2LmpwZ3xmMjhhNzJlZDUxODFiMzYzZGExMTU4NjBhNTE3ZjVkOWYzN2MxNTY1Zjg0YmQ2NWRiZTUzYTNkMTk5Yzk4Zjlk",
             "name": "JBL Cinema SB130 2.1 Channel Soundbar with Wired Subwoofer (110 Watts, Dolby Digital, Extra Deep Bass)",
             "MRP": 21999,
@@ -878,6 +922,7 @@
         {
             "id": "6399e44230a60076156b54ce",
             "_id": 23,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Samsung-A550-TV-Speakers-and-Soundbar-492338576-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3MDc0MHxpbWFnZS9qcGVnfGltYWdlcy9oYTYvaGI2Lzk2MDkwNzk2NTIzODIuanBnfGJmMjI5OTBmM2Y5MGIzM2I4ZDQyMWZkMTVlN2ViNzg4NWFmNDA2Y2Q2Zjc3OGYzY2E4Y2MwZWNjZjgyYTc0MGQ",
             "name": "Samsung A550 2.1 Channel Soundbar",
             "MRP": 24999,
@@ -897,6 +942,7 @@
         {
             "id": "6399e44230a60076156b54cf",
             "_id": 24,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/Infinity-Cinebar-200-TV-Speakers-and-Soundbar-491936141-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0OTUyMXxpbWFnZS9qcGVnfGltYWdlcy9oMWEvaDVjLzk1MTQ2NjgwNjQ3OTguanBnfGNiYjI4OTYyMWM3MzMzNDc3NTI3ZmJiNTIxZGU0N2M5NWU3MDk0YjhmZmY4MGUyY2U1MTAyMTJkN2MzOWUwMGM",
             "name": "Infinity (JBL) Cinebar W200 2.1 Channel Bluetooth Sound Bar with Wireless Sub Woofer (160W Peak Power, Deep Bass Output)",
             "MRP": 19999,
@@ -920,6 +966,7 @@
         {
             "id": "63f5dd8120c179a0aaaf223f",
             "_id": 39,
+            "category": "soundbars",
             "imglink": "https://www.reliancedigital.in/medias/LG-SN4-Sound-Bar-492796654-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2Mzk4MXxpbWFnZS9qcGVnfGltYWdlcy9oN2QvaDQ5Lzk4MTY2NTE4NTc5NTAuanBnfDUxM2M0ZTEzMmZkM2NlMjY2OWVjNjE3NTkwNDA4MzcwMzA0MTBlZGY1MTZjYWU0ZWUyMmU2OWQyZDc0ZmQ5Yjk",
             "name": "LG SN4 300 Watts 2.1 Channel Sound Bar",
             "MRP": 22900,
@@ -934,12 +981,11 @@
             "img2": "https://www.reliancedigital.in/medias/LG-SN4-Sound-Bar-492796654-i-2-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wxMDk3OXxpbWFnZS9qcGVnfGltYWdlcy9oMDgvaDI5Lzk4MTY2NTIyNTExNjYuanBnfGE3N2Y1YWI5OGFhMThmYWQ2MDlhN2JjY2VjMTJlYjg1YjhkYTU4OGQwZTNiNTAyYzUzMThhODI0MjM2ZDRhYTI",
             "img3": "https://www.reliancedigital.in/medias/LG-SN4-Sound-Bar-492796654-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wxMTEzMXxpbWFnZS9qcGVnfGltYWdlcy9oZTkvaGQwLzk4MTY2ODUzNDY4NDYuanBnfGQ5N2VjZThkYWMzMGZhODJmMjUyOWZhMmY1NDRmYjZiNTQ5NWFmYzI0ZWI0YjQyNzc5MTQxMTRhYTM4ZDgwN2Q",
             "__v": 0
-        }
-    ],
-    "television": [
+        },
         {
             "id": "63fc542a22ff18e9f2373310",
             "_id": 1,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/Samsung-UA32T4340BKXXL-Smart-Television-492403650-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNDk1NnxpbWFnZS9qcGVnfGltYWdlcy9oNDcvaDE3Lzk4NDIyMDUxMzA3ODIuanBnfDljNDA4NjY5ZmYwYjNmMTBlMmYwZGEwODNkMTk5M2ZkMDc5MTgzZTAyY2VmNWYwMjJmYWNlZmEwNzBkNmYyZjI",
             "name": "Samsung Wondertainment 80 cm (32 Inch) Smart HD Ready TV, UA32T4340BKXXL",
             "MRP": 22900,
@@ -967,6 +1013,7 @@
         {
             "id": "63fc542a22ff18e9f2373311",
             "_id": 2,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/ONEPLUS-32Y1-TV-491895010-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMjIzMXxpbWFnZS9qcGVnfGltYWdlcy9oNjkvaDE0Lzk4MTAwNTg5MDM1ODIuanBnfGFiZjk3NDA1MzY1ODQwYjc2OTZkMzY4OTI1Y2RmOWM3OTI4NTE1MTlkMDFlOTUwYmZkM2U5MTVlYmIyZGFlYzg",
             "name": "ONEPLUS 81.28 cm (32 inch) HD Smart LED TV, 32Y1",
             "MRP": 19999,
@@ -994,6 +1041,7 @@
         {
             "id": "63fc542a22ff18e9f2373312",
             "_id": 3,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/TCL-D311T-LED-492572945-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyODgwN3xpbWFnZS9qcGVnfGltYWdlcy9oMWEvaGE3Lzk4MzE2NzY5MzYyMjIuanBnfGE5M2ZlNmIyNDdkY2EwODAyMDIzYmJhN2E5NzU3MmRlZmUxNGMwYmFkNzA2M2RkYWE3NmNjYWJmMmNhMzE4MjM",
             "name": "TCL 81.28 cm (32 inch) 2Yr Warranty HD LED TV, D311T Series, 32D311T",
             "MRP": 13990,
@@ -1021,6 +1069,7 @@
         {
             "id": "63fc542a22ff18e9f2373313",
             "_id": 4,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/Kodak-32HDX7XPRO-Television-492166141-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4MzcxOHxpbWFnZS9qcGVnfGltYWdlcy9oNGUvaGI4Lzk1MTE0NzEzNDk3OTAuanBnfDE3MTQ4OGE5OWIzNWUwNjRkZDE0OTRkNTM3MDhjZTAwOGVjYTc4OWZjNzQ0MTdhNzczYzQ5ZTgyYWE2ODRlYzI",
             "name": "Kodak 80 cm (32 inch) HD Ready LED Smart TV, 7XPRO Series 32HDX7XPRO, Quad Core Processor, Built-in Chromecast",
             "MRP": 18499,
@@ -1047,6 +1096,7 @@
         {
             "id": "63fc542a22ff18e9f2373314",
             "_id": 5,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/Toshiba-43U5050-Televisions-491893300-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w3NDc0MXxpbWFnZS9wbmd8aW1hZ2VzL2g3My9oZGIvOTgyMDI0ODYzNzQ3MC5wbmd8NTY1YjYwYjViNGQ4OGFhYjU2Y2FmMzhiZmFhNmRkZmViNGIzNTIxY2FlNTQ2OTQ0OTQxNTFjMzc4NTE3MDQwNQ",
             "name": "Toshiba 108 cm (43 inch) 4K Ultra HD V_idaa OS Smart LED TV with Dolby Vision and ATMOS, 43U5050",
             "MRP": 39990,
@@ -1074,6 +1124,7 @@
         {
             "id": "63fc542a22ff18e9f2373315",
             "_id": 6,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/Realme-Neo-LED-Televisions-492796729-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1NjQ3OXxpbWFnZS9wbmd8aW1hZ2VzL2gzOS9oY2MvOTgwODU0Njc5MTQ1NC5wbmd8N2UzMTIyZjI0MTI1YzQxMGNmNTRmZGZmOTM4Y2ZjZWNkMmU1YWVlN2MyZDdkYmNmOTU0ZjhiYjNhYzQzZDJhZQ",
             "name": "Realme 80 cm (32 inch) HD LED Smart TV, Neo",
             "MRP": 21999,
@@ -1101,6 +1152,7 @@
         {
             "id": "63fc542a22ff18e9f2373316",
             "_id": 7,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/Xiaomi-ELA4701IN-Televisions-492571689-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4NzQyMnxpbWFnZS9qcGVnfGltYWdlcy9oZjUvaDZmLzk2OTE2NjA0NTE4NzAuanBnfDA0NzYyMTg0OTQ4ZWZhYTMyM2Y1MTdiNmFhYmQ4MDczYjM1OTA0OTY4MDYwYWZmZjYzMTljMmZhYTFkZjMyYmY",
             "name": "Redmi 80 cm (32 inch) HD Smart LED ELA4915/4732/01IN",
             "MRP": 24999,
@@ -1128,6 +1180,7 @@
         {
             "id": "63fc542a22ff18e9f2373317",
             "_id": 8,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/ONEPLUS-43Y1S-EDGE-SMART-LED-TV-492796557-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MzIyMHxpbWFnZS9qcGVnfGltYWdlcy9oZTkvaDI4Lzk3Nzg1NjMzMTc3OTAuanBnfGYwZTJhZWZhNTdjMzc2MTIwZGFmNzEwYmI1YzEwOWY1NGMzMGE0ZWZkNGJlNTUyMWMwODY3MzkwNGI3OTk1ZWM",
             "name": "OnePlus 108 cm (43 inch) Full HD Andro_id Smart LED TV with Dolby Audio Surround Sound Technology, 43Y1S Edge",
             "MRP": 33999,
@@ -1155,6 +1208,7 @@
         {
             "id": "63fc542a22ff18e9f2373319",
             "_id": 10,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/LG-32LM562BPTA-Televisions-492338698-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w5NDEyMnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDY3Lzk2MDU1NDcwMzI2MDYuanBnfDM1MWQzMTEzYmEyYWY2MGI0OTViYjJjZmNmNGMxZTUzZTViNTJiOTQ0MmY2ODg1ZDgwOWZhYjdmZmNiNGNkZmU",
             "name": "LG 81.28 cm (32 inch) HD LED Smart TV, 32LM562BPTA",
             "MRP": 20990,
@@ -1182,6 +1236,7 @@
         {
             "id": "63fc542a22ff18e9f237331a",
             "_id": 11,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/Kodak-32HDX7XPRO-Television-492166141-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4MzcxOHxpbWFnZS9qcGVnfGltYWdlcy9oNGUvaGI4Lzk1MTE0NzEzNDk3OTAuanBnfDE3MTQ4OGE5OWIzNWUwNjRkZDE0OTRkNTM3MDhjZTAwOGVjYTc4OWZjNzQ0MTdhNzczYzQ5ZTgyYWE2ODRlYzI",
             "name": "Kodak 108 cm (43 inch) Ultra HD (4K) LED Smart TV, 7XPRO Series 43UHDX7XPRO, Powerful 24 Watts Speaker, Multiple Connectivity Option",
             "MRP": 33999,
@@ -1209,6 +1264,7 @@
         {
             "id": "63fc542a22ff18e9f237331b",
             "_id": 12,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/TCL-43C635-LED-Televisions-492913008-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w5NjAwOHxpbWFnZS9qcGVnfGltYWdlcy9oYmQvaDY3Lzk4NTA0MTkyNDkxODIuanBnfDg5Yzc4MzU2MWUxYmI3MTYxZWZhZjk2NzQ5ZWRhMGQ0MmM1YWJmY2IyMDY1OWJmM2FjMjA2MmIzNmQ0ODBiZWE",
             "name": "TCL 109 cm (43 inch) Ultra HD (4K) QLED Smart TV, 43C635",
             "MRP": 59990,
@@ -1236,6 +1292,7 @@
         {
             "id": "63fc542a22ff18e9f237331c",
             "_id": 13,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/Kodak-32HDX7XPRO-Television-492166141-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4MzcxOHxpbWFnZS9qcGVnfGltYWdlcy9oNGUvaGI4Lzk1MTE0NzEzNDk3OTAuanBnfDE3MTQ4OGE5OWIzNWUwNjRkZDE0OTRkNTM3MDhjZTAwOGVjYTc4OWZjNzQ0MTdhNzczYzQ5ZTgyYWE2ODRlYzI",
             "name": "Kodak 102 cm (40 inch) Full HD LED Smart TV, 7XPRO Series 40FHDX7XPRO, Built-in Chromecast, Quad Core Processor",
             "MRP": 24999,
@@ -1263,6 +1320,7 @@
         {
             "id": "63fc542a22ff18e9f237331d",
             "_id": 14,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/OnePlus-50U1S-Television-492338513-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w3NTk0MHxpbWFnZS9qcGVnfGltYWdlcy9oMjcvaDhiLzk1Njg0MDI2Njk1OTguanBnfDI0ZGI1NzU2NzhmMzJhYmUzZTFlODM5Yjg1NjNjOTlmMDlmYTAyNjU2NDI1OGY0MDZhOGIyYzdjYzRkMTVmMDY",
             "name": "OnePlus 125.7 cm (50 inch) Ultra HD (4K) LED Smart TV, U Series 50U1S",
             "MRP": 49999,
@@ -1290,6 +1348,7 @@
         {
             "id": "63fc542a22ff18e9f237331e",
             "_id": 15,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/Samsung-UA55AUE70AKLXL-LED-TV-492796786-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NDUzN3xpbWFnZS9qcGVnfGltYWdlcy9oMGMvaDM4Lzk4MDg1MzU2NTAzMzQuanBnfGFhZTI1MmVkY2M5NGI5ZjQyMmZhZWYwMmE3NDYxZDNjZmY2MzE1ZWE2ZWM5MjcxYmViYTc2MTFmODM0NzIwMTY",
             "name": "SAMSUNG Crystal 4K Pro 138 cm (55 inch) Ultra HD (4K) LED Smart TV with Voice Search (UA55AUE70AKLXL)",
             "MRP": 76900,
@@ -1317,6 +1376,7 @@
         {
             "id": "63fc542a22ff18e9f237331f",
             "_id": 16,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/On_ida-55UIV-S-TELEVISION-492579418-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w3NTQwN3xpbWFnZS9qcGVnfGltYWdlcy9oMjUvaDBjLzk4NDczNzc1NTk1ODIuanBnfGI5OTQwMmU3ZmY1MWIwZDkyN2M1MzA3MzY4M2NhN2NhMjc1YTY1ZGI4NDNjOWYyOTQ4ZmVkYzY4YjUzMjZmMDk",
             "name": "On_ida 108 cm (43 inch) FHD LED Smart TV, 43FIV",
             "MRP": 37990,
@@ -1344,6 +1404,7 @@
         {
             "id": "63fc542a22ff18e9f2373320",
             "_id": 17,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/TCL-50C715-Televisions-491893430-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNTEwNXxpbWFnZS9qcGVnfGltYWdlcy9oYjUvaDJkLzk4MzI3MDk0NTU5MDIuanBnfDAwMWIzZTQ1YWMyZTQ5NGEyNzM4M2EzOTk5Mzc4YTU5ZmJmZGZhYWQ5YWYxMjkzZmI3NDE4ZTlmYjQ2YmU4NTA",
             "name": "TCL 111.4 cm (50 Inch) 3Yr Warranty Ultra HD (4K) Andro_id Smart QLED TV 50C715",
             "MRP": 109990,
@@ -1371,6 +1432,7 @@
         {
             "id": "63fc542a22ff18e9f2373321",
             "_id": 18,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/On_ida-55UIV-S-TELEVISION-492579418-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w3NTQwN3xpbWFnZS9qcGVnfGltYWdlcy9oMjUvaDBjLzk4NDczNzc1NTk1ODIuanBnfGI5OTQwMmU3ZmY1MWIwZDkyN2M1MzA3MzY4M2NhN2NhMjc1YTY1ZGI4NDNjOWYyOTQ4ZmVkYzY4YjUzMjZmMDk",
             "name": "On_ida 139.7 cm (55 inch) Ultra HD (4K) LED Smart TV, 55UIV-S",
             "MRP": 69990,
@@ -1398,6 +1460,7 @@
         {
             "id": "63fc542a22ff18e9f2373322",
             "_id": 19,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/Samsung-UA32T4340BKXXL-Smart-Television-492403650-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNDk1NnxpbWFnZS9qcGVnfGltYWdlcy9oNDcvaDE3Lzk4NDIyMDUxMzA3ODIuanBnfDljNDA4NjY5ZmYwYjNmMTBlMmYwZGEwODNkMTk5M2ZkMDc5MTgzZTAyY2VmNWYwMjJmYWNlZmEwNzBkNmYyZjI",
             "name": "SAMSUNG 80 cm (32 inch) HD Ready LED Smart TV with Voice Search (UA32TE40FAKBXL)",
             "MRP": 24400,
@@ -1425,6 +1488,7 @@
         {
             "id": "63fc542a22ff18e9f2373323",
             "_id": 20,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/Kodak-32HDX7XPRO-Television-492166141-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4MzcxOHxpbWFnZS9qcGVnfGltYWdlcy9oNGUvaGI4Lzk1MTE0NzEzNDk3OTAuanBnfDE3MTQ4OGE5OWIzNWUwNjRkZDE0OTRkNTM3MDhjZTAwOGVjYTc4OWZjNzQ0MTdhNzczYzQ5ZTgyYWE2ODRlYzI",
             "name": "Kodak 139 cm (55 inch) Ultra HD (4K) LED Smart TV, 7XPRO Series 55UHDX7XPRO, Quad Core Processor, Built-In Chromecast",
             "MRP": 46999,
@@ -1452,6 +1516,7 @@
         {
             "id": "63fc542a22ff18e9f2373324",
             "_id": 21,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/Xiaomi-ELA4701IN-Televisions-492571689-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4NzQyMnxpbWFnZS9qcGVnfGltYWdlcy9oZjUvaDZmLzk2OTE2NjA0NTE4NzAuanBnfDA0NzYyMTg0OTQ4ZWZhYTMyM2Y1MTdiNmFhYmQ4MDczYjM1OTA0OTY4MDYwYWZmZjYzMTljMmZhYTFkZjMyYmY",
             "name": "Real me 80 cm (32 inch) HD Smart LED ELA4915/4732/01IN",
             "MRP": 24999,
@@ -1479,6 +1544,7 @@
         {
             "id": "63fc542a22ff18e9f2373325",
             "_id": 22,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/ONEPLUS-32Y1-TV-491895010-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMjIzMXxpbWFnZS9qcGVnfGltYWdlcy9oNjkvaDE0Lzk4MTAwNTg5MDM1ODIuanBnfGFiZjk3NDA1MzY1ODQwYjc2OTZkMzY4OTI1Y2RmOWM3OTI4NTE1MTlkMDFlOTUwYmZkM2U5MTVlYmIyZGFlYzg",
             "name": "Toshiba 81.28 cm (32 inch) HD Smart LED TV, 32Y1",
             "MRP": 19999,
@@ -1506,6 +1572,7 @@
         {
             "id": "63fc542a22ff18e9f2373326",
             "_id": 23,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/Realme-Neo-LED-Televisions-492796729-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1NjQ3OXxpbWFnZS9wbmd8aW1hZ2VzL2gzOS9oY2MvOTgwODU0Njc5MTQ1NC5wbmd8N2UzMTIyZjI0MTI1YzQxMGNmNTRmZGZmOTM4Y2ZjZWNkMmU1YWVlN2MyZDdkYmNmOTU0ZjhiYjNhYzQzZDJhZQ",
             "name": "LG 80 cm (32 inch) HD LED Smart TV, Neo",
             "MRP": 21999,
@@ -1533,6 +1600,7 @@
         {
             "id": "63fc542a22ff18e9f2373327",
             "_id": 24,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/Realme-Neo-LED-Televisions-492796729-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1NjQ3OXxpbWFnZS9wbmd8aW1hZ2VzL2gzOS9oY2MvOTgwODU0Njc5MTQ1NC5wbmd8N2UzMTIyZjI0MTI1YzQxMGNmNTRmZGZmOTM4Y2ZjZWNkMmU1YWVlN2MyZDdkYmNmOTU0ZjhiYjNhYzQzZDJhZQ",
             "name": "Sony 88 cm (32 inch) HD LED Smart TV, Neo",
             "MRP": 20000,
@@ -1559,7 +1627,8 @@
         },
         {
             "id": "63fc54ac5a461dcf6b6b5158",
-            "_id": 8888,
+            "_id": 8,
+            "category": "television",
             "imglink": "https://www.reliancedigital.in/medias/Samsung-UA32T4340BKXXL-Smart-Television-492403650-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNDk1NnxpbWFnZS9qcGVnfGltYWdlcy9oNDcvaDE3Lzk4NDIyMDUxMzA3ODIuanBnfDljNDA4NjY5ZmYwYjNmMTBlMmYwZGEwODNkMTk5M2ZkMDc5MTgzZTAyY2VmNWYwMjJmYWNlZmEwNzBkNmYyZjI",
             "name": "TOSHIBA 139 cm (55 inches) Bezelless Series 4K Ultra HD Smart LED Google TV 55C350LP (Black)",
             "MRP": 99999,
@@ -1574,12 +1643,11 @@
             "img2": "https://www.reliancedigital.in/medias/Samsung-UA32T4340BKXXL-Smart-Television-492403650-21?context=bWFzdGVyfGltYWdlc3w0NTM2MHxpbWFnZS9qcGVnfGltYWdlcy9oZTAvaDViLzk4MzIyMTgxMzI1MTAuanBnfGNhNDdkOGZjNjVhNGMxYmE1YzFlNzJhODlkM2FhMTcyMWZkNzc0ZTM5MGU1MDA0NTFkMzE3MGY2N2YwMDA0Njc",
             "img3": "https://www.reliancedigital.in/medias/Samsung-UA32T4340BKXXL-Smart-Television-492403650-21?context=bWFzdGVyfGltYWdlc3w0NTM2MHxpbWFnZS9qcGVnfGltYWdlcy9oZTAvaDViLzk4MzIyMTgxMzI1MTAuanBnfGNhNDdkOGZjNjVhNGMxYmE1YzFlNzJhODlkM2FhMTcyMWZkNzc0ZTM5MGU1MDA0NTFkMzE3MGY2N2YwMDA0Njc",
             "__v": 0
-        }
-    ],
-    "laptop": [
+        },
         {
             "id": "63fc50ae22ff18e9f23732f1",
             "_id": 1,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Lenovo-81WH007KIN-LAPTOP-492849666-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMDg2MnxpbWFnZS9qcGVnfGltYWdlcy9oNWIvaGI0Lzk4NDkyMzg2NTA5MTAuanBnfDY1ZTdjNmUxYzdiMDczOThhZDMzYjBlZGE1MmZlYTE5ZDZhOGNhZGEzYTU2NDk5YWQ5ODgxMTY4NjA3OTI4ZDE",
             "name": "Lenovo 7KIN _ideaPad Slim 3i Laptop (Intel Celeron N4020/4GB/256GB/ Windows 11/MSO/HD), 35.56 cm (14 inch)",
             "MRP": 40490,
@@ -1599,6 +1667,7 @@
         {
             "id": "63fc50ae22ff18e9f23732f2",
             "_id": 2,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/HP-533U4PAACJ-Laptop-492849312-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w4OTU2OXxpbWFnZS9qcGVnfGltYWdlcy9oMGYvaGYwLzk4MjQ0MzUyNzM3NTguanBnfGQ5NzFkOGZkMjQyNjc1YzVkOGYzNGM0YmJjYmY3NTY2MWI0NTZkMTA2NjgwODQxZGEwMmZlNzU1ZjU3ZWZmYjQ",
             "name": "HP 15s-fq4022TU Laptop (11th Gen-Intel Core i5-1155G7/8GB/512GB SSD + 32GB Intel Optane Memory/Intel Iris Xe Graphics/Windows 11/MSO/FHD), 39.6 cm (15.6 inch)",
             "MRP": 65444,
@@ -1618,6 +1687,7 @@
         {
             "id": "63fc50ae22ff18e9f23732f3",
             "_id": 3,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Lenovo-41IN-Laptops-492850143-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMjA1MDF8aW1hZ2UvanBlZ3xpbWFnZXMvaDUzL2hhYi85ODQ5MjM4MTI2NjIyLmpwZ3xhYmVkMDA2OGU1ZmM4ODYzNTdhNzU1NzJmMzIxOTk5NDNkN2RmMDhjNzQ3YzYwOTczYTAyODRiMDVmOTg4ODE5",
             "name": "Lenovo 41IN _ideaPad Slim 3 Laptop (10th Gen-Intel Core i3-1005G1/4GB/256GB SSD/Intel UHD Graphics/Windows 11/MSO/FHD), 35.56 cm (14 inch)",
             "MRP": 53790,
@@ -1637,6 +1707,7 @@
         {
             "id": "63fc50ae22ff18e9f23732f4",
             "_id": 4,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Acer-15-Aspire3-R3-Laptop-492849812-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1NzA0NzV8aW1hZ2UvanBlZ3xpbWFnZXMvaDIxL2g3NS85ODQxMjI3MzAwODk0LmpwZ3xmZWFjMjg5NzlhMTY5OTZmNDZkYTczZjlmNWY1YmY5YTRhMDVjN2RiZjhiYmM1YTNjNWI1N2QzNmMyNjRlZWYz",
             "name": "Acer A315-23 Aspire 3 Laptop (AMD Ryzen 3-3250U/4 GB/256 GB SSD/AMD Radeon Graphics/Windows 11/ Full HD), 39.62 cm (15.6 inch)",
             "MRP": 39999,
@@ -1656,6 +1727,7 @@
         {
             "id": "63fc50ae22ff18e9f23732f5",
             "_id": 5,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/HP-14s-dq3032tu-Laptops-492849723-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyODAzOTB8aW1hZ2UvanBlZ3xpbWFnZXMvaGQ4L2hlNS85ODA3MDk5ODU0ODc4LmpwZ3wxYWQxMjBmMTA3M2ZhN2VkMjY1MjMxYTZhOTYzNjU0NzNiMzAyZWVhMGZkOWZjZDFmMzIzNzJiODcwYzY5NWMy",
             "name": "HP 14s-dq3032tu Thin & Light Laptop (Intel Celeron N4500/8GB/256GB SSD/Intel UHD Graphics/Windows 11/MSO/HD), 35.56 cm (14 inch)",
             "MRP": 37006,
@@ -1675,6 +1747,7 @@
         {
             "id": "63fc50ae22ff18e9f23732f6",
             "_id": 6,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Acer-A314-35-Laptop-492849921-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMzYyNjB8aW1hZ2UvanBlZ3xpbWFnZXMvaGIwL2gzNC85ODE5MzE3MjA3MDcwLmpwZ3wxZDU2ZTFlMDdjOGU0NTMyZTcwZTRiMjA3MzAxYzYxNTVlMTkyODZmNzA3NzAxZDRhNDQ3MDViMmY3YTc2NWJk",
             "name": "Acer A314-35 Aspire 3 Laptop (Intel Celeron N4500/4GB/256GB SSD/Intel UHD Graphics/Windows 11/MSO/HD), 35.56 cm (14 inch)",
             "MRP": 42999,
@@ -1694,6 +1767,7 @@
         {
             "id": "63fc50ae22ff18e9f23732f7",
             "_id": 7,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Lenovo-8JIN-Laptops-492850142-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3MjAxN3xpbWFnZS9qcGVnfGltYWdlcy9oZWIvaDM2Lzk4NDk0MDg4MTUxMzQuanBnfDBjOWQ4MmJlZjIzMGUwZjIyZDUzNWIzMDVhYzY3ZTFiMGZjZjYzOTg2ZTJkN2E4OGE5YjgyYTA1NDc3ZmZiNWM",
             "name": "Lenovo 8JIN _ideaPad Slim 3 Laptop (10th Gen-Intel Core i3-10110U/4GB/256GB SSD/Intel UHD Graphics/Windows 11/MSO/FHD), 39.62 cm (15.6 inch)",
             "MRP": 53790,
@@ -1713,6 +1787,7 @@
         {
             "id": "63fc50ae22ff18e9f23732f8",
             "_id": 8,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Lenovo-81WH007KIN-LAPTOP-492849666-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMDg2MnxpbWFnZS9qcGVnfGltYWdlcy9oNWIvaGI0Lzk4NDkyMzg2NTA5MTAuanBnfDY1ZTdjNmUxYzdiMDczOThhZDMzYjBlZGE1MmZlYTE5ZDZhOGNhZGEzYTU2NDk5YWQ5ODgxMTY4NjA3OTI4ZDE",
             "name": "Lenovo 7KIN _ideaPad Slim 3i Laptop (Intel Celeron N4020/4GB/256GB/ Windows 11/MSO/HD), 35.56 cm (14 inch)",
             "MRP": 40490,
@@ -1732,6 +1807,7 @@
         {
             "id": "63fc50ae22ff18e9f23732fb",
             "_id": 1,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Lenovo-81WH007KIN-LAPTOP-492849666-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMDg2MnxpbWFnZS9qcGVnfGltYWdlcy9oNWIvaGI0Lzk4NDkyMzg2NTA5MTAuanBnfDY1ZTdjNmUxYzdiMDczOThhZDMzYjBlZGE1MmZlYTE5ZDZhOGNhZGEzYTU2NDk5YWQ5ODgxMTY4NjA3OTI4ZDE",
             "name": "Lenovo 7KIN _ideaPad Slim 3i Laptop (Intel Celeron N4020/4GB/256GB/ Windows 11/MSO/HD), 35.56 cm (14 inch)",
             "MRP": 40490,
@@ -1751,6 +1827,7 @@
         {
             "id": "63fc50ae22ff18e9f23732fc",
             "_id": 2,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/HP-533U4PAACJ-Laptop-492849312-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w4OTU2OXxpbWFnZS9qcGVnfGltYWdlcy9oMGYvaGYwLzk4MjQ0MzUyNzM3NTguanBnfGQ5NzFkOGZkMjQyNjc1YzVkOGYzNGM0YmJjYmY3NTY2MWI0NTZkMTA2NjgwODQxZGEwMmZlNzU1ZjU3ZWZmYjQ",
             "name": "HP 15s-fq4022TU Laptop (11th Gen-Intel Core i5-1155G7/8GB/512GB SSD + 32GB Intel Optane Memory/Intel Iris Xe Graphics/Windows 11/MSO/FHD), 39.6 cm (15.6 inch)",
             "MRP": 65444,
@@ -1770,6 +1847,7 @@
         {
             "id": "63fc50ae22ff18e9f23732fd",
             "_id": 3,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Lenovo-41IN-Laptops-492850143-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMjA1MDF8aW1hZ2UvanBlZ3xpbWFnZXMvaDUzL2hhYi85ODQ5MjM4MTI2NjIyLmpwZ3xhYmVkMDA2OGU1ZmM4ODYzNTdhNzU1NzJmMzIxOTk5NDNkN2RmMDhjNzQ3YzYwOTczYTAyODRiMDVmOTg4ODE5",
             "name": "Lenovo 41IN _ideaPad Slim 3 Laptop (10th Gen-Intel Core i3-1005G1/4GB/256GB SSD/Intel UHD Graphics/Windows 11/MSO/FHD), 35.56 cm (14 inch)",
             "MRP": 53790,
@@ -1789,6 +1867,7 @@
         {
             "id": "63fc50ae22ff18e9f23732fe",
             "_id": 4,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Acer-15-Aspire3-R3-Laptop-492849812-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1NzA0NzV8aW1hZ2UvanBlZ3xpbWFnZXMvaDIxL2g3NS85ODQxMjI3MzAwODk0LmpwZ3xmZWFjMjg5NzlhMTY5OTZmNDZkYTczZjlmNWY1YmY5YTRhMDVjN2RiZjhiYmM1YTNjNWI1N2QzNmMyNjRlZWYz",
             "name": "Acer A315-23 Aspire 3 Laptop (AMD Ryzen 3-3250U/4 GB/256 GB SSD/AMD Radeon Graphics/Windows 11/ Full HD), 39.62 cm (15.6 inch)",
             "MRP": 39999,
@@ -1808,6 +1887,7 @@
         {
             "id": "63fc50ae22ff18e9f23732ff",
             "_id": 5,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/HP-14s-dq3032tu-Laptops-492849723-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyODAzOTB8aW1hZ2UvanBlZ3xpbWFnZXMvaGQ4L2hlNS85ODA3MDk5ODU0ODc4LmpwZ3wxYWQxMjBmMTA3M2ZhN2VkMjY1MjMxYTZhOTYzNjU0NzNiMzAyZWVhMGZkOWZjZDFmMzIzNzJiODcwYzY5NWMy",
             "name": "HP 14s-dq3032tu Thin & Light Laptop (Intel Celeron N4500/8GB/256GB SSD/Intel UHD Graphics/Windows 11/MSO/HD), 35.56 cm (14 inch)",
             "MRP": 37006,
@@ -1827,6 +1907,7 @@
         {
             "id": "63fc50ae22ff18e9f2373300",
             "_id": 6,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Acer-A314-35-Laptop-492849921-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMzYyNjB8aW1hZ2UvanBlZ3xpbWFnZXMvaGIwL2gzNC85ODE5MzE3MjA3MDcwLmpwZ3wxZDU2ZTFlMDdjOGU0NTMyZTcwZTRiMjA3MzAxYzYxNTVlMTkyODZmNzA3NzAxZDRhNDQ3MDViMmY3YTc2NWJk",
             "name": "Acer A314-35 Aspire 3 Laptop (Intel Celeron N4500/4GB/256GB SSD/Intel UHD Graphics/Windows 11/MSO/HD), 35.56 cm (14 inch)",
             "MRP": 42999,
@@ -1846,6 +1927,7 @@
         {
             "id": "63fc50ae22ff18e9f2373301",
             "_id": 7,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Lenovo-8JIN-Laptops-492850142-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3MjAxN3xpbWFnZS9qcGVnfGltYWdlcy9oZWIvaDM2Lzk4NDk0MDg4MTUxMzQuanBnfDBjOWQ4MmJlZjIzMGUwZjIyZDUzNWIzMDVhYzY3ZTFiMGZjZjYzOTg2ZTJkN2E4OGE5YjgyYTA1NDc3ZmZiNWM",
             "name": "Lenovo 8JIN _ideaPad Slim 3 Laptop (10th Gen-Intel Core i3-10110U/4GB/256GB SSD/Intel UHD Graphics/Windows 11/MSO/FHD), 39.62 cm (15.6 inch)",
             "MRP": 53790,
@@ -1865,6 +1947,7 @@
         {
             "id": "63fc50ae22ff18e9f2373302",
             "_id": 8,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Lenovo-81WH007KIN-LAPTOP-492849666-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMDg2MnxpbWFnZS9qcGVnfGltYWdlcy9oNWIvaGI0Lzk4NDkyMzg2NTA5MTAuanBnfDY1ZTdjNmUxYzdiMDczOThhZDMzYjBlZGE1MmZlYTE5ZDZhOGNhZGEzYTU2NDk5YWQ5ODgxMTY4NjA3OTI4ZDE",
             "name": "Lenovo 7KIN _ideaPad Slim 3i Laptop (Intel Celeron N4020/4GB/256GB/ Windows 11/MSO/HD), 35.56 cm (14 inch)",
             "MRP": 40490,
@@ -1884,6 +1967,7 @@
         {
             "id": "63fc50ae22ff18e9f2373305",
             "_id": 1,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Lenovo-81WH007KIN-LAPTOP-492849666-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMDg2MnxpbWFnZS9qcGVnfGltYWdlcy9oNWIvaGI0Lzk4NDkyMzg2NTA5MTAuanBnfDY1ZTdjNmUxYzdiMDczOThhZDMzYjBlZGE1MmZlYTE5ZDZhOGNhZGEzYTU2NDk5YWQ5ODgxMTY4NjA3OTI4ZDE",
             "name": "Lenovo 7KIN _ideaPad Slim 3i Laptop (Intel Celeron N4020/4GB/256GB/ Windows 11/MSO/HD), 35.56 cm (14 inch)",
             "MRP": 40490,
@@ -1903,6 +1987,7 @@
         {
             "id": "63fc50ae22ff18e9f2373306",
             "_id": 2,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/HP-533U4PAACJ-Laptop-492849312-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w4OTU2OXxpbWFnZS9qcGVnfGltYWdlcy9oMGYvaGYwLzk4MjQ0MzUyNzM3NTguanBnfGQ5NzFkOGZkMjQyNjc1YzVkOGYzNGM0YmJjYmY3NTY2MWI0NTZkMTA2NjgwODQxZGEwMmZlNzU1ZjU3ZWZmYjQ",
             "name": "HP 15s-fq4022TU Laptop (11th Gen-Intel Core i5-1155G7/8GB/512GB SSD + 32GB Intel Optane Memory/Intel Iris Xe Graphics/Windows 11/MSO/FHD), 39.6 cm (15.6 inch)",
             "MRP": 65444,
@@ -1922,6 +2007,7 @@
         {
             "id": "63fc50ae22ff18e9f2373307",
             "_id": 3,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Lenovo-41IN-Laptops-492850143-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMjA1MDF8aW1hZ2UvanBlZ3xpbWFnZXMvaDUzL2hhYi85ODQ5MjM4MTI2NjIyLmpwZ3xhYmVkMDA2OGU1ZmM4ODYzNTdhNzU1NzJmMzIxOTk5NDNkN2RmMDhjNzQ3YzYwOTczYTAyODRiMDVmOTg4ODE5",
             "name": "Lenovo 41IN _ideaPad Slim 3 Laptop (10th Gen-Intel Core i3-1005G1/4GB/256GB SSD/Intel UHD Graphics/Windows 11/MSO/FHD), 35.56 cm (14 inch)",
             "MRP": 53790,
@@ -1941,6 +2027,7 @@
         {
             "id": "63fc50ae22ff18e9f2373308",
             "_id": 4,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Acer-15-Aspire3-R3-Laptop-492849812-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1NzA0NzV8aW1hZ2UvanBlZ3xpbWFnZXMvaDIxL2g3NS85ODQxMjI3MzAwODk0LmpwZ3xmZWFjMjg5NzlhMTY5OTZmNDZkYTczZjlmNWY1YmY5YTRhMDVjN2RiZjhiYmM1YTNjNWI1N2QzNmMyNjRlZWYz",
             "name": "Acer A315-23 Aspire 3 Laptop (AMD Ryzen 3-3250U/4 GB/256 GB SSD/AMD Radeon Graphics/Windows 11/ Full HD), 39.62 cm (15.6 inch)",
             "MRP": 39999,
@@ -1960,6 +2047,7 @@
         {
             "id": "63fc50ae22ff18e9f2373309",
             "_id": 5,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/HP-14s-dq3032tu-Laptops-492849723-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyODAzOTB8aW1hZ2UvanBlZ3xpbWFnZXMvaGQ4L2hlNS85ODA3MDk5ODU0ODc4LmpwZ3wxYWQxMjBmMTA3M2ZhN2VkMjY1MjMxYTZhOTYzNjU0NzNiMzAyZWVhMGZkOWZjZDFmMzIzNzJiODcwYzY5NWMy",
             "name": "HP 14s-dq3032tu Thin & Light Laptop (Intel Celeron N4500/8GB/256GB SSD/Intel UHD Graphics/Windows 11/MSO/HD), 35.56 cm (14 inch)",
             "MRP": 37006,
@@ -1979,6 +2067,7 @@
         {
             "id": "63fc50ae22ff18e9f237330a",
             "_id": 6,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Acer-A314-35-Laptop-492849921-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMzYyNjB8aW1hZ2UvanBlZ3xpbWFnZXMvaGIwL2gzNC85ODE5MzE3MjA3MDcwLmpwZ3wxZDU2ZTFlMDdjOGU0NTMyZTcwZTRiMjA3MzAxYzYxNTVlMTkyODZmNzA3NzAxZDRhNDQ3MDViMmY3YTc2NWJk",
             "name": "Acer A314-35 Aspire 3 Laptop (Intel Celeron N4500/4GB/256GB SSD/Intel UHD Graphics/Windows 11/MSO/HD), 35.56 cm (14 inch)",
             "MRP": 42999,
@@ -1998,6 +2087,7 @@
         {
             "id": "63fc50ae22ff18e9f237330b",
             "_id": 7,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Lenovo-8JIN-Laptops-492850142-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3MjAxN3xpbWFnZS9qcGVnfGltYWdlcy9oZWIvaDM2Lzk4NDk0MDg4MTUxMzQuanBnfDBjOWQ4MmJlZjIzMGUwZjIyZDUzNWIzMDVhYzY3ZTFiMGZjZjYzOTg2ZTJkN2E4OGE5YjgyYTA1NDc3ZmZiNWM",
             "name": "Lenovo 8JIN _ideaPad Slim 3 Laptop (10th Gen-Intel Core i3-10110U/4GB/256GB SSD/Intel UHD Graphics/Windows 11/MSO/FHD), 39.62 cm (15.6 inch)",
             "MRP": 53790,
@@ -2017,6 +2107,7 @@
         {
             "id": "63fc50ae22ff18e9f237330c",
             "_id": 8,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/Lenovo-81WH007KIN-LAPTOP-492849666-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMDg2MnxpbWFnZS9qcGVnfGltYWdlcy9oNWIvaGI0Lzk4NDkyMzg2NTA5MTAuanBnfDY1ZTdjNmUxYzdiMDczOThhZDMzYjBlZGE1MmZlYTE5ZDZhOGNhZGEzYTU2NDk5YWQ5ODgxMTY4NjA3OTI4ZDE",
             "name": "Lenovo 7KIN _ideaPad Slim 3i Laptop (Intel Celeron N4020/4GB/256GB/ Windows 11/MSO/HD), 35.56 cm (14 inch)",
             "MRP": 40490,
@@ -2036,6 +2127,7 @@
         {
             "id": "63fc50ae22ff18e9f237330d",
             "_id": 9,
+            "category": "laptop",
             "imglink": "https://www.reliancedigital.in/medias/HP-533U4PAACJ-Laptop-492849312-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w4OTU2OXxpbWFnZS9qcGVnfGltYWdlcy9oMGYvaGYwLzk4MjQ0MzUyNzM3NTguanBnfGQ5NzFkOGZkMjQyNjc1YzVkOGYzNGM0YmJjYmY3NTY2MWI0NTZkMTA2NjgwODQxZGEwMmZlNzU1ZjU3ZWZmYjQ",
             "name": "HP 15s-fq4022TU Laptop (11th Gen-Intel Core i5-1155G7/8GB/512GB SSD + 32GB Intel Optane Memory/Intel Iris Xe Graphics/Windows 11/MSO/FHD), 39.6 cm (15.6 inch)",
             "MRP": 65444,
@@ -2051,12 +2143,11 @@
             "img1": "https://www.reliancedigital.in/medias/HP-533U4PAACJ-Laptop-492849312-i-1-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyOTgwfGltYWdlL2pwZWd8aW1hZ2VzL2hkYS9oY2UvOTgyNDQzNTMzOTI5NC5qcGd8MGU4NDk2MjZiMTdhZTE1MjRlODA1MGU5MDJiYjMzYjU5NGY4MzQxY2JiZWE2MWZjNjhhMWE2ODg5Nzg5MWYwMw",
             "img2": "https://www.reliancedigital.in/medias/HP-533U4PAACJ-Laptop-492849312-i-2-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyOTE1fGltYWdlL2pwZWd8aW1hZ2VzL2hmNS9oZDIvOTgyNDQzNTY2Njk3NC5qcGd8MTQ4NzExNjQ5OWRlYTAzMjEzYzY0ZmZkZDRkMjIyYzVjMDUxYjIwNzM1MThiNjQ0ODI1OWY4MzFmYjMyZDA1MA",
             "img3": "https://www.reliancedigital.in/medias/HP-533U4PAACJ-Laptop-492849312-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wzMDI0fGltYWdlL2pwZWd8aW1hZ2VzL2g3NC9oZGQvOTgyNDQzNTk5NDY1NC5qcGd8ZjM5NzFkMjQzODA5YTljMDM5OWIyZjBjNmNjOGZhYzE3MWQ0YmNhMjk1YmNjYmM3MWNiOGVkMzFiZjllMzhjMA"
-        }
-    ],
-    "appliance": [
+        },
         {
             "id": "6398945a9860a2192e7c8532",
             "_id": 1,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTcyODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGU3L2gxNC85NzU1MTY3NDI0NTQyLmpwZ3wzMzRhZGZmYmZjNzU1YWNiMmQwOGQ2NmNmNjRjZDdlYjE1ZDEzNDAzZmEyN2I5NjZlZjVhYWQ3NTU5M2M4Yjk1",
             "name": "Kelvinator 1.8L 1200W Food Grade Electric Kettle with Water Level Indicator, LED Light, Dry Boil Protection, Auto Shut-off, 2 Years Warranty",
             "MRP": 1999,
@@ -2076,6 +2167,7 @@
         {
             "id": "6398945a9860a2192e7c8533",
             "_id": 2,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODMyODh8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g3YS85NjIwMzI4NDE1MjYyLmpwZ3xiYmIwYzMwMzI0YWYyMmM0MjdjYTM5Mzc0ODk5MWY0MmFiYWEwNGU0YWZhNzIzNDUwMDQ0YmFmMTE0ODlmNzhj",
             "name": "BPL Beard Trimmer with Digital Battery Indicator, 70mins Cordless Usage, Fast Charging, 4 Comb Settings, 2 Years Warranty, Black and Light Gold",
             "MRP": 1699,
@@ -2095,6 +2187,7 @@
         {
             "id": "6398945a9860a2192e7c8534",
             "_id": 3,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI",
             "name": "Panasonic 1.8 litres Rice Cooker, SR-WA18 (GE9)",
             "MRP": 3395,
@@ -2114,6 +2207,7 @@
         {
             "id": "6398945a9860a2192e7c8535",
             "_id": 4,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Reconnect-DSM302-CA-Sandwich-Maker-491604309-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1NjI4NzJ8aW1hZ2UvanBlZ3xpbWFnZXMvaDcwL2gyNS85NTQ1NDI5Mzg1MjQ2LmpwZ3wyZDQ1NGMxYjAxNTdiN2IwYTc2NDRlYzFkNzA1YzYyMjQ1NWFhY2JjMGZiOWQwNjAwNWM4MTljNDUxNDhhZDRl",
             "name": "Reconnect Captain America Sandwich Maker with Theme Impression, Non-Stick Plates, Cool Coating for Burn-Free Touch, Heat-up Light Indicator, L_id Lock, Compact Vertical Storage, 2 Years Warranty",
             "MRP": 2199,
@@ -2133,6 +2227,7 @@
         {
             "id": "6398945a9860a2192e7c8536",
             "_id": 5,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/hindware-calisto-Water-Purifier-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNzk5OXxpbWFnZS9qcGVnfGltYWdlcy9oYmYvaDJlLzk3NDQ0NDcxMTExOTguanBnfDg5YzRlZDBlMjNjZDIyMDE2OGJmZjgxZjlkYWQyNWMwNzkxNGI1NTgzMWQ5OGM0NmI2NDRmZmFiOGJhMDliZjI",
             "name": "Hindware Calisto 7 Litres RO+UV+UF Water Purifier with Smart LED Indicators, White (WR-18071UFN)",
             "MRP": 14990,
@@ -2152,6 +2247,7 @@
         {
             "id": "6398945a9860a2192e7c8537",
             "_id": 6,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/BPL-BBT001MLC-Beard-Trimmer-491903144-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDIyMzl8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g5Yy85NjEzNTc0MzczNDA2LmpwZ3w2YzY0NjMyNGRmYjQ5NTIzNWI3Y2FlODQ4YzFmN2JkNjRkNGM2YmJiZTJlMDA3NDQ5YTJhZTMxODQ3MGMwNWRl",
             "name": "BPL 2-in-1 Beard and Nose Trimmer, 45mins Cordless Usage, 3mm-12mm Adjustable Comb, 2 Years Warranty, Navy Blue",
             "MRP": 1299,
@@ -2171,6 +2267,7 @@
         {
             "id": "6398945a9860a2192e7c8538",
             "_id": 7,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Inalsa-Jazz-Pro-Juicer-Mixer-Grinder-491959502-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNjk2MjV8aW1hZ2UvanBlZ3xpbWFnZXMvaDE5L2hmOS85NTUwNjQxNjkyNzAyLmpwZ3w0OWYzYWU2YmM3ZTQ1ZTYyYjNjZWQ3NjdiZWJlMTFkNGQ4YTRhYTFhMmQ5MWRiZjA2NmViNTE4NmRkYTc2MzQy",
             "name": "Inalsa Jazz Pro 550 Watts Mixer Grinder With 3 Speed Setting",
             "MRP": 4495,
@@ -2190,6 +2287,7 @@
         {
             "id": "6398945a9860a2192e7c8539",
             "_id": 8,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTcyODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGU3L2gxNC85NzU1MTY3NDI0NTQyLmpwZ3wzMzRhZGZmYmZjNzU1YWNiMmQwOGQ2NmNmNjRjZDdlYjE1ZDEzNDAzZmEyN2I5NjZlZjVhYWQ3NTU5M2M4Yjk1",
             "name": "Kelvinator 1.8L 1200W Food Grade Electric Kettle with Water Level Indicator, LED Light, Dry Boil Protection, Auto Shut-off, 2 Years Warranty",
             "MRP": 1999,
@@ -2209,6 +2307,7 @@
         {
             "id": "6398945a9860a2192e7c853a",
             "_id": 9,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODMyODh8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g3YS85NjIwMzI4NDE1MjYyLmpwZ3xiYmIwYzMwMzI0YWYyMmM0MjdjYTM5Mzc0ODk5MWY0MmFiYWEwNGU0YWZhNzIzNDUwMDQ0YmFmMTE0ODlmNzhj",
             "name": "BPL Beard Trimmer with Digital Battery Indicator, 70mins Cordless Usage, Fast Charging, 4 Comb Settings, 2 Years Warranty, Black and Light Gold",
             "MRP": 1699,
@@ -2228,6 +2327,7 @@
         {
             "id": "6398945a9860a2192e7c853b",
             "_id": 10,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI",
             "name": "Panasonic 1.8 litres Rice Cooker, SR-WA18 (GE9)",
             "MRP": 3395,
@@ -2247,6 +2347,7 @@
         {
             "id": "6398945a9860a2192e7c853c",
             "_id": 11,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTcyODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGU3L2gxNC85NzU1MTY3NDI0NTQyLmpwZ3wzMzRhZGZmYmZjNzU1YWNiMmQwOGQ2NmNmNjRjZDdlYjE1ZDEzNDAzZmEyN2I5NjZlZjVhYWQ3NTU5M2M4Yjk1",
             "name": "Kelvinator 1.8L 1200W Food Grade Electric Kettle with Water Level Indicator, LED Light, Dry Boil Protection, Auto Shut-off, 2 Years Warranty",
             "MRP": 1999,
@@ -2266,6 +2367,7 @@
         {
             "id": "6398945a9860a2192e7c853d",
             "_id": 12,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODMyODh8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g3YS85NjIwMzI4NDE1MjYyLmpwZ3xiYmIwYzMwMzI0YWYyMmM0MjdjYTM5Mzc0ODk5MWY0MmFiYWEwNGU0YWZhNzIzNDUwMDQ0YmFmMTE0ODlmNzhj",
             "name": "BPL Beard Trimmer with Digital Battery Indicator, 70mins Cordless Usage, Fast Charging, 4 Comb Settings, 2 Years Warranty, Black and Light Gold",
             "MRP": 1699,
@@ -2285,6 +2387,7 @@
         {
             "id": "6398945a9860a2192e7c853e",
             "_id": 13,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI",
             "name": "Panasonic 1.8 litres Rice Cooker, SR-WA18 (GE9)",
             "MRP": 3395,
@@ -2304,6 +2407,7 @@
         {
             "id": "6398945a9860a2192e7c853f",
             "_id": 14,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Reconnect-DSM302-CA-Sandwich-Maker-491604309-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1NjI4NzJ8aW1hZ2UvanBlZ3xpbWFnZXMvaDcwL2gyNS85NTQ1NDI5Mzg1MjQ2LmpwZ3wyZDQ1NGMxYjAxNTdiN2IwYTc2NDRlYzFkNzA1YzYyMjQ1NWFhY2JjMGZiOWQwNjAwNWM4MTljNDUxNDhhZDRl",
             "name": "Reconnect Captain America Sandwich Maker with Theme Impression, Non-Stick Plates, Cool Coating for Burn-Free Touch, Heat-up Light Indicator, L_id Lock, Compact Vertical Storage, 2 Years Warranty",
             "MRP": 2199,
@@ -2323,6 +2427,7 @@
         {
             "id": "6398945a9860a2192e7c8540",
             "_id": 15,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/hindware-calisto-Water-Purifier-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNzk5OXxpbWFnZS9qcGVnfGltYWdlcy9oYmYvaDJlLzk3NDQ0NDcxMTExOTguanBnfDg5YzRlZDBlMjNjZDIyMDE2OGJmZjgxZjlkYWQyNWMwNzkxNGI1NTgzMWQ5OGM0NmI2NDRmZmFiOGJhMDliZjI",
             "name": "Hindware Calisto 7 Litres RO+UV+UF Water Purifier with Smart LED Indicators, White (WR-18071UFN)",
             "MRP": 14990,
@@ -2342,6 +2447,7 @@
         {
             "id": "6398945a9860a2192e7c8541",
             "_id": 16,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/BPL-BBT001MLC-Beard-Trimmer-491903144-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDIyMzl8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g5Yy85NjEzNTc0MzczNDA2LmpwZ3w2YzY0NjMyNGRmYjQ5NTIzNWI3Y2FlODQ4YzFmN2JkNjRkNGM2YmJiZTJlMDA3NDQ5YTJhZTMxODQ3MGMwNWRl",
             "name": "BPL 2-in-1 Beard and Nose Trimmer, 45mins Cordless Usage, 3mm-12mm Adjustable Comb, 2 Years Warranty, Navy Blue",
             "MRP": 1299,
@@ -2361,6 +2467,7 @@
         {
             "id": "6398945a9860a2192e7c8542",
             "_id": 17,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Inalsa-Jazz-Pro-Juicer-Mixer-Grinder-491959502-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNjk2MjV8aW1hZ2UvanBlZ3xpbWFnZXMvaDE5L2hmOS85NTUwNjQxNjkyNzAyLmpwZ3w0OWYzYWU2YmM3ZTQ1ZTYyYjNjZWQ3NjdiZWJlMTFkNGQ4YTRhYTFhMmQ5MWRiZjA2NmViNTE4NmRkYTc2MzQy",
             "name": "Inalsa Jazz Pro 550 Watts Mixer Grinder With 3 Speed Setting",
             "MRP": 4495,
@@ -2380,6 +2487,7 @@
         {
             "id": "6398945a9860a2192e7c8543",
             "_id": 18,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTcyODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGU3L2gxNC85NzU1MTY3NDI0NTQyLmpwZ3wzMzRhZGZmYmZjNzU1YWNiMmQwOGQ2NmNmNjRjZDdlYjE1ZDEzNDAzZmEyN2I5NjZlZjVhYWQ3NTU5M2M4Yjk1",
             "name": "Kelvinator 1.8L 1200W Food Grade Electric Kettle with Water Level Indicator, LED Light, Dry Boil Protection, Auto Shut-off, 2 Years Warranty",
             "MRP": 1999,
@@ -2399,6 +2507,7 @@
         {
             "id": "6398945a9860a2192e7c8544",
             "_id": 19,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODMyODh8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g3YS85NjIwMzI4NDE1MjYyLmpwZ3xiYmIwYzMwMzI0YWYyMmM0MjdjYTM5Mzc0ODk5MWY0MmFiYWEwNGU0YWZhNzIzNDUwMDQ0YmFmMTE0ODlmNzhj",
             "name": "BPL Beard Trimmer with Digital Battery Indicator, 70mins Cordless Usage, Fast Charging, 4 Comb Settings, 2 Years Warranty, Black and Light Gold",
             "MRP": 1699,
@@ -2418,6 +2527,7 @@
         {
             "id": "6398945a9860a2192e7c8545",
             "_id": 20,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI",
             "name": "Panasonic 1.8 litres Rice Cooker, SR-WA18 (GE9)",
             "MRP": 3395,
@@ -2437,6 +2547,7 @@
         {
             "id": "6398945a9860a2192e7c8546",
             "_id": 21,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTcyODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGU3L2gxNC85NzU1MTY3NDI0NTQyLmpwZ3wzMzRhZGZmYmZjNzU1YWNiMmQwOGQ2NmNmNjRjZDdlYjE1ZDEzNDAzZmEyN2I5NjZlZjVhYWQ3NTU5M2M4Yjk1",
             "name": "Kelvinator 1.8L 1200W Food Grade Electric Kettle with Water Level Indicator, LED Light, Dry Boil Protection, Auto Shut-off, 2 Years Warranty",
             "MRP": 1999,
@@ -2456,6 +2567,7 @@
         {
             "id": "6398945a9860a2192e7c8547",
             "_id": 22,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODMyODh8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g3YS85NjIwMzI4NDE1MjYyLmpwZ3xiYmIwYzMwMzI0YWYyMmM0MjdjYTM5Mzc0ODk5MWY0MmFiYWEwNGU0YWZhNzIzNDUwMDQ0YmFmMTE0ODlmNzhj",
             "name": "BPL Beard Trimmer with Digital Battery Indicator, 70mins Cordless Usage, Fast Charging, 4 Comb Settings, 2 Years Warranty, Black and Light Gold",
             "MRP": 1699,
@@ -2475,6 +2587,7 @@
         {
             "id": "6398945a9860a2192e7c8548",
             "_id": 23,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI",
             "name": "Panasonic 1.8 litres Rice Cooker, SR-WA18 (GE9)",
             "MRP": 3395,
@@ -2494,6 +2607,7 @@
         {
             "id": "6398945a9860a2192e7c8549",
             "_id": 24,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Reconnect-DSM302-CA-Sandwich-Maker-491604309-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1NjI4NzJ8aW1hZ2UvanBlZ3xpbWFnZXMvaDcwL2gyNS85NTQ1NDI5Mzg1MjQ2LmpwZ3wyZDQ1NGMxYjAxNTdiN2IwYTc2NDRlYzFkNzA1YzYyMjQ1NWFhY2JjMGZiOWQwNjAwNWM4MTljNDUxNDhhZDRl",
             "name": "Reconnect Captain America Sandwich Maker with Theme Impression, Non-Stick Plates, Cool Coating for Burn-Free Touch, Heat-up Light Indicator, L_id Lock, Compact Vertical Storage, 2 Years Warranty",
             "MRP": 2199,
@@ -2513,6 +2627,7 @@
         {
             "id": "6398945a9860a2192e7c854a",
             "_id": 25,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/hindware-calisto-Water-Purifier-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNzk5OXxpbWFnZS9qcGVnfGltYWdlcy9oYmYvaDJlLzk3NDQ0NDcxMTExOTguanBnfDg5YzRlZDBlMjNjZDIyMDE2OGJmZjgxZjlkYWQyNWMwNzkxNGI1NTgzMWQ5OGM0NmI2NDRmZmFiOGJhMDliZjI",
             "name": "Hindware Calisto 7 Litres RO+UV+UF Water Purifier with Smart LED Indicators, White (WR-18071UFN)",
             "MRP": 14990,
@@ -2532,6 +2647,7 @@
         {
             "id": "6398945a9860a2192e7c854b",
             "_id": 26,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/BPL-BBT001MLC-Beard-Trimmer-491903144-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDIyMzl8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g5Yy85NjEzNTc0MzczNDA2LmpwZ3w2YzY0NjMyNGRmYjQ5NTIzNWI3Y2FlODQ4YzFmN2JkNjRkNGM2YmJiZTJlMDA3NDQ5YTJhZTMxODQ3MGMwNWRl",
             "name": "BPL 2-in-1 Beard and Nose Trimmer, 45mins Cordless Usage, 3mm-12mm Adjustable Comb, 2 Years Warranty, Navy Blue",
             "MRP": 1299,
@@ -2551,6 +2667,7 @@
         {
             "id": "6398945a9860a2192e7c854c",
             "_id": 27,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Inalsa-Jazz-Pro-Juicer-Mixer-Grinder-491959502-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNjk2MjV8aW1hZ2UvanBlZ3xpbWFnZXMvaDE5L2hmOS85NTUwNjQxNjkyNzAyLmpwZ3w0OWYzYWU2YmM3ZTQ1ZTYyYjNjZWQ3NjdiZWJlMTFkNGQ4YTRhYTFhMmQ5MWRiZjA2NmViNTE4NmRkYTc2MzQy",
             "name": "Inalsa Jazz Pro 550 Watts Mixer Grinder With 3 Speed Setting",
             "MRP": 4495,
@@ -2570,6 +2687,7 @@
         {
             "id": "6398945a9860a2192e7c854d",
             "_id": 28,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTcyODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGU3L2gxNC85NzU1MTY3NDI0NTQyLmpwZ3wzMzRhZGZmYmZjNzU1YWNiMmQwOGQ2NmNmNjRjZDdlYjE1ZDEzNDAzZmEyN2I5NjZlZjVhYWQ3NTU5M2M4Yjk1",
             "name": "Kelvinator 1.8L 1200W Food Grade Electric Kettle with Water Level Indicator, LED Light, Dry Boil Protection, Auto Shut-off, 2 Years Warranty",
             "MRP": 1999,
@@ -2589,6 +2707,7 @@
         {
             "id": "6398945a9860a2192e7c854e",
             "_id": 29,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/BPL-BBTD0013C-Beard-Trimmer-491903183-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODMyODh8aW1hZ2UvanBlZ3xpbWFnZXMvaGU0L2g3YS85NjIwMzI4NDE1MjYyLmpwZ3xiYmIwYzMwMzI0YWYyMmM0MjdjYTM5Mzc0ODk5MWY0MmFiYWEwNGU0YWZhNzIzNDUwMDQ0YmFmMTE0ODlmNzhj",
             "name": "BPL Beard Trimmer with Digital Battery Indicator, 70mins Cordless Usage, Fast Charging, 4 Comb Settings, 2 Years Warranty, Black and Light Gold",
             "MRP": 1699,
@@ -2608,6 +2727,7 @@
         {
             "id": "6398945a9860a2192e7c854f",
             "_id": 30,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Panasonic-Refrigerators-SR-WA18-GE9-491265256-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNDE0MnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDVlLzkxNzYxODk0MDMxNjYuanBnfDU0OTBhMWVjYzhlNzUyOWEzOWJiMjg5M2VlMjNlMDM2YTUwNTZhM2YyYjExYjIxOTAxNzkzNDQ2ZTlmYzNkZWI",
             "name": "Panasonic 1.8 litres Rice Cooker, SR-WA18 (GE9)",
             "MRP": 3395,
@@ -2627,6 +2747,7 @@
         {
             "id": "63f499e3917a41adf541c51c",
             "_id": 33,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTcyODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGU3L2gxNC85NzU1MTY3NDI0NTQyLmpwZ3wzMzRhZGZmYmZjNzU1YWNiMmQwOGQ2NmNmNjRjZDdlYjE1ZDEzNDAzZmEyN2I5NjZlZjVhYWQ3NTU5M2M4Yjk1",
             "name": "Kelvinator 1.8L 1200W Food Grade Electric Kettle with Water Level Indicator, LED Light, Dry Boil Protection, Auto Shut-off, 2 Years Warranty",
             "MRP": 1999,
@@ -2645,6 +2766,7 @@
         {
             "id": "63f5dceb20c179a0aaaf223b",
             "_id": 8,
+            "category": "appliances",
             "imglink": "https://www.reliancedigital.in/medias/Kelvinator-KEKS00118-ELECTRICKETTLE-491959054-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMTcyODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGU3L2gxNC85NzU1MTY3NDI0NTQyLmpwZ3wzMzRhZGZmYmZjNzU1YWNiMmQwOGQ2NmNmNjRjZDdlYjE1ZDEzNDAzZmEyN2I5NjZlZjVhYWQ3NTU5M2M4Yjk1",
             "name": "Kelvinator 1.8L 1200W Food Grade Electric Kettle with Water Level Indicator, LED Light, Dry Boil Protection, Auto Shut-off, 2 Years Warranty",
             "MRP": 1999,
